@@ -1,0 +1,385 @@
+id,articulo,tamano_bytes,tamano_palabras,fecha_creacion,id_creacion,url_creacion,fecha_ultima_revision,id_ultima_revision,url_ultima_revision,editores_anonimos,editores_registrados,editor_principal,discusion,discusion_tamanho_bytes,discusion_tamanho_palabras,enlaces_a,enlaces_de,imagenes_cantidad,referencias,bibliografía,wikidata_id,wikidata_etiquetas,wikidata_descripciones,wikidata_declaraciones,wikidata_declaraciones_referencias_P143,wikidata_declaraciones_referencias,wikidata_identificadores_externos,wikidata_interwiki,commons_categoria,commons_archivos,commons_subcats
+1,Parroquia Matriz de Nuestra Señora de la Concepción (San Cristóbal de La Laguna),12309,1355,2007-03-18T19:58:02Z,7620244,https://es.wikipedia.org/w/index.php?oldid=7620244,2020-04-19T08:34:16Z,125315063,https://es.wikipedia.org/w/index.php?oldid=125315063,59,44,79.154.234.112,,,,89,80,9,3,0,Q1024943,19,11,15,10,16,2,15,Immaculate Conception Church (San Cristóbal de La Laguna),83,2
+2,Castillo de Santa Bárbara (Teguise),4216,310,2009-08-31T12:40:53Z,29315235,https://es.wikipedia.org/w/index.php?oldid=29315235,2020-02-18T23:39:56Z,123657677,https://es.wikipedia.org/w/index.php?oldid=123657677,2,24,CarlosVdeHabsburgo,Discusión:Castillo de Santa Bárbara (Teguise),1104,102,36,21,1,3,0,Q1049248,9,4,8,3,8,3,9,Castillo de Santa Bárbara (Lanzarote),104,0
+3,Castillo de la Luz,6747,687,2007-03-24T16:56:27Z,7736158,https://es.wikipedia.org/w/index.php?oldid=7736158,2020-01-21T00:16:06Z,122932063,https://es.wikipedia.org/w/index.php?oldid=122932063,6,31,Alavisan,,,,47,38,2,1,0,Q1049274,6,7,7,3,9,5,5,Castillo de La Luz,27,0
+4,Parroquia de San Francisco de Asís (Las Palmas de Gran Canaria),14168,1442,2013-04-14T17:10:50Z,66224714,https://es.wikipedia.org/w/index.php?oldid=66224714,2020-04-08T12:04:10Z,124999129,https://es.wikipedia.org/w/index.php?oldid=124999129,9,9,Ubayrbd,Discusión:Parroquia de San Francisco de Asís (Las Palmas de Gran Canaria),2174,337,50,33,10,10,0,Q11073552,2,8,12,5,10,1,2,"Parroquia de San Francisco de Asís (Las Palmas de Gran Canaria, Canaria, España)",13,0
+5,Real Santuario Insular de Nuestra Señora de las Nieves,8512,978,2011-08-05T15:21:09Z,48602913,https://es.wikipedia.org/w/index.php?oldid=48602913,2020-04-18T20:19:35Z,125302568,https://es.wikipedia.org/w/index.php?oldid=125302568,15,13,88.12.64.117,,,,69,14,5,5,0,Q1241319,4,7,12,4,6,4,2,Real Santuario Insular de Nuestra Señora de las Nieves,41,2
+6,Exconvento de San Agustín (Tacoronte),5211,622,2007-07-27T11:08:13Z,10290847,https://es.wikipedia.org/w/index.php?oldid=10290847,2020-03-07T13:01:40Z,124079697,https://es.wikipedia.org/w/index.php?oldid=124079697,20,25,SeroBOT,,,,37,22,2,1,0,Q1276162,4,6,10,4,10,2,4,Santuario del Santísimo Cristo de Tacoronte,24,0
+7,Los Hoteles (Santa Cruz de Tenerife),10812,934,2010-07-17T17:51:19Z,38858799,https://es.wikipedia.org/w/index.php?oldid=38858799,2020-02-13T13:36:38Z,123516761,https://es.wikipedia.org/w/index.php?oldid=123516761,4,17,Elimedina,Discusión:Los Hoteles (Santa Cruz de Tenerife),1628,138,47,22,12,7,0,Q129389,4,5,9,3,8,2,4,Barrio de los Hoteles (Santa Cruz de Tenerife);Barrio de los Hoteles - Pino de Oro,0,0
+8,Catedral de Canarias,33179,4461,2006-09-27T15:14:13Z,4888932,https://es.wikipedia.org/w/index.php?oldid=4888932,2019-12-14T22:36:21Z,122033114,https://es.wikipedia.org/w/index.php?oldid=122033114,89,80,Ubayrbd,Discusión:Catedral de Canarias,32935,5039,161,175,10,22,0,Q1385934,18,6,15,20,31,7,18,Cathedral of Santa Ana,146,5
+9,,,,,,,,,,,,,,,,,,,,,Q1435665,2,4,8,0,6,1,2,Salt mines of Arinaga,2,0
+10,Museo de la Naturaleza y el Hombre,23655,2595,2007-09-25T21:42:41Z,11598207,https://es.wikipedia.org/w/index.php?oldid=11598207,2019-12-03T14:35:06Z,121757869,https://es.wikipedia.org/w/index.php?oldid=121757869,104,67,217.125.0.214,Discusión:Museo de la Naturaleza y el Hombre,5137,463,159,78,7,20,0,Q1451968,18,10,13,16,26,5,16,Museo de la Naturaleza y el Hombre,199,4
+11,Templo Masónico de Santa Cruz de Tenerife,12627,1440,2008-08-16T23:27:36Z,19498310,https://es.wikipedia.org/w/index.php?oldid=19498310,2020-04-17T18:32:53Z,125271887,https://es.wikipedia.org/w/index.php?oldid=125271887,26,36,L. Dogour,Discusión:Templo Masónico de Santa Cruz de Tenerife,2319,197,58,23,6,7,1,Q1454573,15,4,10,4,10,3,15,Masonic Temple of Santa Cruz de Tenerife,35,1
+12,Camino del Socorro (Güímar),4366,499,2014-03-14T13:25:03Z,73173189,https://es.wikipedia.org/w/index.php?oldid=73173189,2019-06-28T08:32:59Z,117007333,https://es.wikipedia.org/w/index.php?oldid=117007333,0,8,Javiersanp,Discusión:Camino del Socorro (Güímar),1051,95,28,5,3,1,0,Q16540776,2,3,8,3,9,2,3,Camino del Socorro,2,0
+13,Casa del Paseo y Capilla de San Juan,10343,1332,2014-03-14T10:10:17Z,73171240,https://es.wikipedia.org/w/index.php?oldid=73171240,2019-06-28T08:33:19Z,117007337,https://es.wikipedia.org/w/index.php?oldid=117007337,0,8,DigitalFour,,,,77,4,2,2,0,Q16544245,2,6,7,2,7,1,3,Casa del Paseo y Capilla de San Juan,4,0
+14,Castillo de El Cotillo,4064,190,2013-05-15T20:28:32Z,66913127,https://es.wikipedia.org/w/index.php?oldid=66913127,2020-01-04T17:30:19Z,122498422,https://es.wikipedia.org/w/index.php?oldid=122498422,1,13,Beta15,Discusión:Castillo de El Cotillo,1650,111,31,24,1,5,0,Q16544675,4,4,7,1,6,2,5,Castillo de El Tostón,47,1
+15,Ermita del Socorro (Güímar),5827,435,2014-03-11T15:09:59Z,73111914,https://es.wikipedia.org/w/index.php?oldid=73111914,2019-07-09T21:44:32Z,117296348,https://es.wikipedia.org/w/index.php?oldid=117296348,1,11,Javiersanp,,,,20,7,4,7,0,Q16563022,2,7,7,2,7,2,3,Ermita del Socorro,0,0
+16,Ermita de San Marcial de Limoges (Femés),6198,641,2016-04-17T11:45:30Z,90516919,https://es.wikipedia.org/w/index.php?oldid=90516919,2019-06-28T07:32:12Z,117006450,https://es.wikipedia.org/w/index.php?oldid=117006450,8,6,83.55.88.174,Discusión:Ermita de San Marcial de Limoges (Femés),1387,111,46,4,2,5,0,Q1657172,2,2,10,4,8,1,2,Iglesia de San Marcial de Rubicón,18,0
+17,Iglesia de San Sebastián (Agüimes),2447,209,2013-09-10T15:46:43Z,69542734,https://es.wikipedia.org/w/index.php?oldid=69542734,2019-06-28T07:31:17Z,117006430,https://es.wikipedia.org/w/index.php?oldid=117006430,1,9,Ubayrbd,,,,25,6,1,1,0,Q16577826,1,5,9,4,9,1,2,"Church of San Sebastián, Agüimes",4,0
+18,Iglesia de Santo Domingo (Güímar),8028,790,2014-03-11T10:07:58Z,73108434,https://es.wikipedia.org/w/index.php?oldid=73108434,2019-06-28T08:04:44Z,117006999,https://es.wikipedia.org/w/index.php?oldid=117006999,1,11,MetroBot,Discusión:Iglesia de Santo Domingo (Güímar),1194,103,25,4,4,6,0,Q16577942,2,6,8,4,9,1,3,"Church of Santo Domingo, Güímar",0,0
+19,La Hidro,5347,588,2014-03-13T14:47:26Z,73154968,https://es.wikipedia.org/w/index.php?oldid=73154968,2019-06-28T08:33:59Z,117007346,https://es.wikipedia.org/w/index.php?oldid=117007346,0,8,Javiersanp,,,,17,6,1,3,0,Q16587521,3,3,7,3,8,2,3,La Hidro,1,0
+20,Llano de la Virgen (Güímar),4888,574,2014-03-11T23:19:22Z,73123572,https://es.wikipedia.org/w/index.php?oldid=73123572,2019-06-28T08:34:09Z,117007349,https://es.wikipedia.org/w/index.php?oldid=117007349,1,7,Javiersanp,,,,24,7,6,1,0,Q16592166,3,3,7,3,8,2,3,Llano de la Virgen,4,0
+21,Molino de la Menora,4710,507,2014-03-13T09:23:33Z,73151694,https://es.wikipedia.org/w/index.php?oldid=73151694,2019-06-28T08:34:59Z,117007367,https://es.wikipedia.org/w/index.php?oldid=117007367,0,9,Javiersanp,,,,40,6,2,1,0,Q16608527,2,3,7,3,8,1,3,Watermill of Menora,2,0
+22,Iglesia de San Pedro Apóstol (Vilaflor),9151,1110,2013-06-08T12:01:21Z,67539701,https://es.wikipedia.org/w/index.php?oldid=67539701,2019-07-25T13:32:53Z,117690836,https://es.wikipedia.org/w/index.php?oldid=117690836,7,14,Beneharo Hdez.,Discusión:Iglesia de San Pedro Apóstol (Vilaflor),1206,97,37,19,4,1,0,Q16616473,2,5,10,4,8,1,2,"Church of Saint Peter, Vilaflor",18,0
+23,Iglesia de San Pedro Apóstol (Vilaflor),9151,1110,2013-06-08T12:01:21Z,67539701,https://es.wikipedia.org/w/index.php?oldid=67539701,2019-07-25T13:32:53Z,117690836,https://es.wikipedia.org/w/index.php?oldid=117690836,7,14,Beneharo Hdez.,Discusión:Iglesia de San Pedro Apóstol (Vilaflor),1206,97,37,19,4,1,0,Q16616473,2,5,10,4,8,1,2,"Church of Saint Peter, Vilaflor",18,0
+24,Iglesia de Santa Catalina Mártir de Alejandría (Tacoronte),2202,196,2012-09-16T14:23:35Z,59708552,https://es.wikipedia.org/w/index.php?oldid=59708552,2019-06-28T08:04:04Z,117006990,https://es.wikipedia.org/w/index.php?oldid=117006990,8,11,83.40.237.158,Discusión:Iglesia de Santa Catalina Mártir de Alejandría (Tacoronte),1285,109,27,5,2,1,0,Q1700342,3,7,11,4,9,2,3,"Church of Santa Catalina, Tacoronte",67,0
+25,Ermita de los Dolores (Tinajo),18447,2594,2007-07-27T11:33:21Z,10291132,https://es.wikipedia.org/w/index.php?oldid=10291132,2019-06-28T07:32:02Z,117006446,https://es.wikipedia.org/w/index.php?oldid=117006446,17,24,Ubayrbd,Discusión:Ermita de los Dolores (Tinajo),115,25,72,12,3,5,0,Q1707711,4,7,11,4,9,1,4,Nuestra Señora de Los Dolores (Tinajo),42,2
+26,Iglesia de Nuestra Señora de la Peña de Francia (Puerto de la Cruz),8666,1042,2007-07-25T12:11:56Z,10254007,https://es.wikipedia.org/w/index.php?oldid=10254007,2020-04-23T17:27:55Z,125440712,https://es.wikipedia.org/w/index.php?oldid=125440712,21,25,Edub,Discusión:Iglesia de Nuestra Señora de la Peña de Francia (Puerto de la Cruz),310,46,62,26,5,0,0,Q1750856,3,9,9,3,3,1,3,"Church of Nuestra Señora de la Peña de Francia, Puerto de la Cruz",106,2
+27,Molinos y lavaderos de Chacaica,4766,501,2014-03-12T23:52:26Z,73145848,https://es.wikipedia.org/w/index.php?oldid=73145848,2019-06-28T08:32:09Z,117007324,https://es.wikipedia.org/w/index.php?oldid=117007324,0,13,Rauletemunoz,,,,15,5,5,1,0,Q17525464,3,2,7,3,8,1,3,Molinos y lavaderos de Chacaica,12,0
+28,Casa-Museo Pérez Galdós,6688,538,2014-08-02T17:37:45Z,76015350,https://es.wikipedia.org/w/index.php?oldid=76015350,2020-04-14T07:51:41Z,125173201,https://es.wikipedia.org/w/index.php?oldid=125173201,2,13,Latemplanza,Discusión:Casa-Museo Pérez Galdós,2736,202,30,16,11,4,0,Q17612354,2,5,11,12,30,14,2,Casa-Museo Pérez Galdós,17,1
+29,El Casco (Los Silos),6111,338,2014-10-21T17:34:24Z,77676759,https://es.wikipedia.org/w/index.php?oldid=77676759,2019-06-28T08:33:39Z,117007342,https://es.wikipedia.org/w/index.php?oldid=117007342,0,9,CanaryBot,,,,33,13,2,4,0,Q18397857,1,2,7,1,7,2,2,Conjunto histórico de Los Silos,4,0
+30,Castillo de San José,4271,263,2016-11-06T08:29:17Z,94817886,https://es.wikipedia.org/w/index.php?oldid=94817886,2019-06-28T07:27:57Z,117006376,https://es.wikipedia.org/w/index.php?oldid=117006376,1,8,Poco a poco,Discusión:Castillo de San José,1183,95,17,14,2,4,0,Q1878948,6,7,8,1,6,2,6,Castillo de San José,79,8
+31,Convento de Santa Clara de Asís (San Cristóbal de La Laguna),7696,989,2012-03-04T14:08:36Z,54319740,https://es.wikipedia.org/w/index.php?oldid=54319740,2020-04-27T04:36:52Z,125546627,https://es.wikipedia.org/w/index.php?oldid=125546627,10,17,193.152.175.107,Discusión:Convento de Santa Clara de Asís (San Cristóbal de La Laguna),2222,204,66,20,1,1,0,Q1952424,4,3,10,6,13,4,4,Convento de Santa Clara de Asis (San Cristóbal de La Laguna),4,0
+32,San Juan de la Rambla (casco),6015,336,2014-11-07T15:17:14Z,78007706,https://es.wikipedia.org/w/index.php?oldid=78007706,2019-11-22T04:15:32Z,121493874,https://es.wikipedia.org/w/index.php?oldid=121493874,0,7,Hewell,Discusión:San Juan de la Rambla (casco),1085,97,38,8,3,4,0,Q20018152,1,2,7,1,7,2,2,Conjunto histórico artístico de San Juan de la Rambla,1,0
+33,Iglesia de la Concepción (La Orotava),29189,3903,2010-11-23T11:56:00Z,41999866,https://es.wikipedia.org/w/index.php?oldid=41999866,2020-04-17T13:03:08Z,125263791,https://es.wikipedia.org/w/index.php?oldid=125263791,8,34,JosuHdez,Discusión:Iglesia de la Concepción (La Orotava),224,10,86,19,19,41,0,Q2004326,8,9,13,9,14,1,6,Immaculate Conception Church (La Orotava),89,2
+34,Iglesia de San Francisco de Asís (Santa Cruz de Tenerife),15839,1718,2008-09-22T16:16:21Z,20358889,https://es.wikipedia.org/w/index.php?oldid=20358889,2020-03-08T08:44:04Z,124100751,https://es.wikipedia.org/w/index.php?oldid=124100751,49,31,81.32.232.184,Discusión:Iglesia de San Francisco de Asís (Santa Cruz de Tenerife),179,10,132,37,13,3,2,Q2053265,9,8,15,7,13,3,9,"Iglesia de San Francisco de Asís, Santa Cruz de Tenerife;Church of San Francisco de Asís (Santa Cruz de Tenerife)",0,0
+35,Teatro Pérez Galdós,44825,5614,2007-04-26T12:47:13Z,8383591,https://es.wikipedia.org/w/index.php?oldid=8383591,2020-04-15T21:33:30Z,125217152,https://es.wikipedia.org/w/index.php?oldid=125217152,13,62,Pepelopex,Discusión:Teatro Pérez Galdós,249,0,212,87,14,3,10,Q206404,5,4,12,2,9,8,4,Teatro Pérez Galdós,49,0
+36,Castillo de San Cristóbal (Santa Cruz de Tenerife),7451,846,2008-10-19T21:34:33Z,21094173,https://es.wikipedia.org/w/index.php?oldid=21094173,2019-06-28T07:48:13Z,117006759,https://es.wikipedia.org/w/index.php?oldid=117006759,13,23,Gran Coyote,Discusión:Castillo de San Cristóbal (Santa Cruz de Tenerife),1140,99,38,35,3,0,0,Q2073174,8,6,12,6,11,1,8,Castillo de San Cristóbal (Santa Cruz de Tenerife),73,3
+37,Castillo de San Juan (Santa Cruz de Tenerife),6487,588,2007-07-28T01:55:38Z,10304482,https://es.wikipedia.org/w/index.php?oldid=10304482,2019-06-28T07:49:03Z,117006773,https://es.wikipedia.org/w/index.php?oldid=117006773,18,32,Gafotas,,,,39,39,6,1,0,Q2073408,14,7,11,4,12,5,13,Castillo de San Juan Bautista,44,0
+38,Santuario de Nuestra Señora del Carmen (Los Realejos),4903,569,2015-07-26T12:45:04Z,84018443,https://es.wikipedia.org/w/index.php?oldid=84018443,2020-02-05T12:35:14Z,123321702,https://es.wikipedia.org/w/index.php?oldid=123321702,6,5,83.49.171.235,,,,46,5,1,3,0,Q20856286,3,3,10,4,10,1,4,"Iglesia del Carmen, Plaza de San Agustín y su entorno",1,0
+39,Faro de Punta Pechiguera,1890,220,2007-05-14T17:29:51Z,8775352,https://es.wikipedia.org/w/index.php?oldid=8775352,2020-04-21T20:16:18Z,125386371,https://es.wikipedia.org/w/index.php?oldid=125386371,2,20,Vanbasten 23,,,,28,10,1,0,0,Q2185489,5,5,16,7,13,6,6,Faro de Pechiguera,29,0
+40,Cañada de los Gatos,4227,298,2016-04-20T15:10:26Z,90589764,https://es.wikipedia.org/w/index.php?oldid=90589764,2019-06-28T06:47:56Z,117005869,https://es.wikipedia.org/w/index.php?oldid=117005869,1,9,Abel-Arkeós,,,,23,8,4,2,0,Q24568165,4,4,7,0,6,2,2,Archaeological area of Lomo de los Gatos,26,0
+41,Cuevas de Don Gaspar,3228,255,2016-06-18T16:10:51Z,91775019,https://es.wikipedia.org/w/index.php?oldid=91775019,2019-06-28T06:57:07Z,117005963,https://es.wikipedia.org/w/index.php?oldid=117005963,2,5,88.10.57.233,,,,14,12,1,3,0,Q24693406,4,3,5,0,6,2,4,,0,0
+42,,,,,,,,,,,,,,,,,,,,,Q24951597,2,5,9,6,11,1,2,Iglesia de Nuestra Señora de los Remedios (Yaiza),38,2
+43,Sede del Parlamento de Canarias,3463,299,2016-10-28T22:30:14Z,94629017,https://es.wikipedia.org/w/index.php?oldid=94629017,2019-08-26T01:20:35Z,118528652,https://es.wikipedia.org/w/index.php?oldid=118528652,1,3,Strakhov,,,,18,7,1,3,0,Q27616561,3,1,11,0,3,2,1,,0,0
+44,Palacete Rodríguez Quegles,3341,304,2016-11-04T18:34:13Z,94784529,https://es.wikipedia.org/w/index.php?oldid=94784529,2019-06-28T07:16:05Z,117006184,https://es.wikipedia.org/w/index.php?oldid=117006184,1,5,Beta15,,,,13,5,2,3,0,Q27688767,2,4,8,1,1,1,3,Palacete Rodríguez Quegles,6,0
+45,,,,,,,,,,,,,,,,,,,,,Q28035250,2,3,7,0,6,1,2,Necrópolis del Maipés de Arriba,14,0
+46,Basílica de San Juan Bautista (Telde),12092,1442,2008-09-26T14:30:34Z,20445494,https://es.wikipedia.org/w/index.php?oldid=20445494,2020-04-15T09:57:43Z,125203865,https://es.wikipedia.org/w/index.php?oldid=125203865,34,44,Ubayrbd,Discusión:Basílica de San Juan Bautista (Telde),7403,1060,71,51,7,3,1,Q2878575,2,5,10,5,10,1,2,"Basilica of San Juan Bautista, Telde",12,1
+47,Ermita de San Pedro y San Juan (Vallebrón),2182,215,2007-09-17T21:27:03Z,11405878,https://es.wikipedia.org/w/index.php?oldid=11405878,2019-06-28T07:29:37Z,117006402,https://es.wikipedia.org/w/index.php?oldid=117006402,3,10,Gafotas,,,,25,11,0,0,0,Q2890339,1,5,8,3,8,1,1,,0,0
+48,Parroquia de la Virgen del Pilar (El Toscal),3393,318,2010-05-29T09:21:55Z,37507616,https://es.wikipedia.org/w/index.php?oldid=37507616,2019-06-28T08:04:54Z,117007002,https://es.wikipedia.org/w/index.php?oldid=117007002,10,11,83.40.239.78,,,,32,7,4,0,0,Q2890891,5,5,16,8,8,0,4,"Iglesia de Nuestra Señora del Pilar, Santa Cruz de Tenerife",23,2
+49,Capilla de San Pedro de Arriba,3335,409,2007-07-28T01:29:58Z,10304187,https://es.wikipedia.org/w/index.php?oldid=10304187,2019-05-21T23:09:59Z,116128964,https://es.wikipedia.org/w/index.php?oldid=116128964,2,14,Edub,,,,33,12,1,0,0,Q2918089,2,5,8,3,8,1,3,"Chapel of San Pedro de Arriba, Güímar",2,0
+50,Ermita de Nuestra Señora de La Concepción (Puerto del Rosario),4602,607,2007-07-27T11:24:36Z,10291047,https://es.wikipedia.org/w/index.php?oldid=10291047,2019-06-28T07:28:57Z,117006392,https://es.wikipedia.org/w/index.php?oldid=117006392,3,14,Edub,,,,32,15,0,0,0,Q2918942,1,5,7,3,9,3,1,,0,0
+51,Castillo de San Miguel (Garachico),6683,683,2009-10-11T00:10:28Z,30479935,https://es.wikipedia.org/w/index.php?oldid=30479935,2020-02-19T21:06:33Z,123678453,https://es.wikipedia.org/w/index.php?oldid=123678453,9,35,88.22.161.146,,,,27,16,7,4,0,Q3198233,11,6,7,3,9,3,9,Castillo de San Miguel (Garachico),33,0
+52,El Museo Canario,7092,892,2007-12-16T20:00:05Z,13619302,https://es.wikipedia.org/w/index.php?oldid=13619302,2020-04-15T00:13:17Z,125194605,https://es.wikipedia.org/w/index.php?oldid=125194605,13,27,Canario1,Discusión:El Museo Canario,268,31,46,71,2,0,0,Q3560239,11,11,13,13,35,16,7,El Museo Canario,9,1
+53,Museo municipal de Bellas Artes (Santa Cruz de Tenerife),4797,446,2007-09-25T23:38:33Z,11601248,https://es.wikipedia.org/w/index.php?oldid=11601248,2020-02-18T20:27:41Z,123646645,https://es.wikipedia.org/w/index.php?oldid=123646645,9,25,Tiberioclaudio99,Discusión:Museo municipal de Bellas Artes (Santa Cruz de Tenerife),523,80,53,45,5,0,0,Q3565234,6,7,15,20,34,10,6,Museo municipal de Bellas Artes de Santa Cruz de Tenerife,37,4
+54,Convento de Santa Catalina de Siena (San Cristóbal de La Laguna),7786,924,2012-02-17T15:16:05Z,53901967,https://es.wikipedia.org/w/index.php?oldid=53901967,2020-03-26T14:45:18Z,124577080,https://es.wikipedia.org/w/index.php?oldid=124577080,13,20,83.40.236.128,Discusión:Convento de Santa Catalina de Siena (San Cristóbal de La Laguna),2894,296,69,26,3,2,0,Q3689605,4,3,13,8,13,1,4,Convento Santa Catalina La Laguna,20,0
+55,Museo y Parque Arqueológico Cueva Pintada,6417,530,2006-09-26T21:33:13Z,4876814,https://es.wikipedia.org/w/index.php?oldid=4876814,2019-10-14T19:37:37Z,120304328,https://es.wikipedia.org/w/index.php?oldid=120304328,26,44,Raycojimenezg,Discusión:Museo y Parque Arqueológico Cueva Pintada,642,82,24,41,3,0,0,Q3699202,4,6,8,3,9,5,5,Cueva Pintada,29,2
+56,Faro de Maspalomas,12081,1141,2006-08-15T18:42:35Z,4296000,https://es.wikipedia.org/w/index.php?oldid=4296000,2019-06-28T08:22:54Z,117007212,https://es.wikipedia.org/w/index.php?oldid=117007212,8,47,Pepelopex,Discusión:Faro de Maspalomas,650,11,78,29,13,3,4,Q3739792,6,5,18,10,16,7,7,Faro of Maspalomas,77,0
+57,Vegueta,3225,272,2007-06-12T19:47:13Z,9417390,https://es.wikipedia.org/w/index.php?oldid=9417390,2020-03-10T20:01:49Z,124166067,https://es.wikipedia.org/w/index.php?oldid=124166067,21,29,Beta15,Discusión:Vegueta,980,92,34,82,2,1,1,Q3821476,6,5,9,1,6,3,3,Vegueta,743,49
+58,,,,,,,,,,,,,,,,,,,,,Q43077814,1,3,5,0,6,1,0,,0,0
+59,,,,,,,,,,,,,,,,,,,,,Q43078824,1,3,7,0,6,1,1,Institución de Villasegura,3,0
+60,,,,,,,,,,,,,,,,,,,,,Q43078876,1,3,7,0,6,2,1,Casa Miranda,5,0
+61,,,,,,,,,,,,,,,,,,,,,Q43091014,1,3,7,0,5,1,1,Castillo de la Virgen (Santa Cruz de La Palma),37,1
+62,,,,,,,,,,,,,,,,,,,,,Q43091636,1,2,6,0,4,1,0,Museo municipal de Bellas Artes de Santa Cruz de Tenerife,37,4
+63,Grabados rupestres del Barranco de Balos,12744,1341,2019-12-03T17:58:09Z,121762177,https://es.wikipedia.org/w/index.php?oldid=121762177,2019-12-27T21:25:19Z,122323341,https://es.wikipedia.org/w/index.php?oldid=122323341,0,5,Cnizo,,,,44,1,3,3,3,Q43111423,1,3,7,0,6,2,2,Archaeological area of Barranco de Balos,8,0
+64,,,,,,,,,,,,,,,,,,,,,Q43113884,1,3,8,0,5,1,1,Convento de San Francisco (Santa Cruz de La Palma),39,1
+65,,,,,,,,,,,,,,,,,,,,,Q43114526,1,3,7,0,6,2,1,Ermita de la Concepción de La Atalaya de Santa Brígida,5,0
+66,,,,,,,,,,,,,,,,,,,,,Q43114744,1,3,8,0,6,1,1,Hermitage of San Pedro González de Telmo,4,0
+67,,,,,,,,,,,,,,,,,,,,,Q43114910,1,3,7,0,6,1,1,"Church of San José, Las Palmas de Gran Canaria",4,0
+68,,,,,,,,,,,,,,,,,,,,,Q43115365,1,3,7,0,6,2,1,"Church of San Pedro Mártir, Telde",1,0
+69,,,,,,,,,,,,,,,,,,,,,Q43115678,2,3,7,0,6,2,1,Casa de los Capitanes Generales,25,0
+70,,,,,,,,,,,,,,,,,,,,,Q43117395,2,3,7,0,6,2,1,"Antiguo mercado, Santa Cruz de Tenerife",32,1
+71,,,,,,,,,,,,,,,,,,,,,Q43118063,1,3,7,0,6,1,1,Ex-Convento de San Agustín,4,0
+72,,,,,,,,,,,,,,,,,,,,,Q43118435,1,3,5,0,5,3,0,,0,0
+73,,,,,,,,,,,,,,,,,,,,,Q43120071,1,3,5,0,6,1,0,,0,0
+74,,,,,,,,,,,,,,,,,,,,,Q43120080,1,3,7,0,6,1,1,Southeastern windmill on La Montañeta,9,0
+75,,,,,,,,,,,,,,,,,,,,,Q43120095,1,3,7,0,6,1,1,Windmill in Tefia (FV-207),7,0
+76,,,,,,,,,,,,,,,,,,,,,Q43120105,1,3,7,0,6,1,1,6-winged windmill in Llanos de la Concepción,2,0
+77,,,,,,,,,,,,,,,,,,,,,Q43120118,1,3,7,0,5,2,1,Molino de Antigua,15,0
+78,,,,,,,,,,,,,,,,,,,,,Q43120126,1,3,7,0,5,1,1,Windmill at Calle General Moscardol,6,0
+79,,,,,,,,,,,,,,,,,,,,,Q43120135,1,3,7,0,5,1,1,Windmill at Lugar Teguitar,5,0
+80,,,,,,,,,,,,,,,,,,,,,Q43120147,2,3,7,0,5,1,1,Windmill at Calle Isla De Montaña Clara,9,0
+81,,,,,,,,,,,,,,,,,,,,,Q43120156,1,3,5,0,6,1,0,,0,0
+82,,,,,,,,,,,,,,,,,,,,,Q43120167,1,3,7,0,6,1,1,Windmill in El Cotillo,11,0
+83,,,,,,,,,,,,,,,,,,,,,Q43120174,1,3,7,0,6,1,1,Windmill of Lajares,2,0
+84,,,,,,,,,,,,,,,,,,,,,Q43120184,1,3,7,0,6,1,1,Northwestern windmill on La Montañeta,7,0
+85,,,,,,,,,,,,,,,,,,,,,Q43120194,1,3,5,0,6,1,0,,0,0
+86,,,,,,,,,,,,,,,,,,,,,Q43120206,1,3,7,0,6,1,1,Windmill in Los Estancos,7,0
+87,,,,,,,,,,,,,,,,,,,,,Q43120211,2,3,6,0,6,1,0,,0,0
+88,,,,,,,,,,,,,,,,,,,,,Q43120219,1,3,5,0,6,1,0,,0,0
+89,,,,,,,,,,,,,,,,,,,,,Q43120224,1,3,7,0,6,1,1,4-winged windmill in Llanos de la Concepción,4,0
+90,,,,,,,,,,,,,,,,,,,,,Q43120237,1,3,7,0,5,1,1,Windmill of Durazno,7,0
+91,,,,,,,,,,,,,,,,,,,,,Q43120244,1,3,7,0,5,1,1,Windmill at La Corte,6,0
+92,,,,,,,,,,,,,,,,,,,,,Q43120256,1,3,7,0,6,1,1,Molino de Tiscamanita,21,0
+93,,,,,,,,,,,,,,,,,,,,,Q43120267,1,3,7,0,6,1,1,Windmill in Tiscamanita,6,0
+94,,,,,,,,,,,,,,,,,,,,,Q43120681,2,3,7,0,6,1,1,Casona de Fierro-Torres y Santa Cruz,14,0
+95,,,,,,,,,,,,,,,,,,,,,Q43120694,1,3,7,0,6,1,1,Casona y Jardines de San Fernando,1,0
+96,,,,,,,,,,,,,,,,,,,,,Q43120714,1,3,7,0,6,1,1,Casa de los Arroyo,4,0
+97,,,,,,,,,,,,,,,,,,,,,Q43127913,1,3,5,0,6,1,0,,0,0
+98,,,,,,,,,,,,,,,,,,,,,Q43127922,1,3,7,0,6,2,1,"Iglesia de Santo Domingo de Guzman, Las Palmas de Gran Canaria",17,0
+99,,,,,,,,,,,,,,,,,,,,,Q43128388,2,3,7,0,6,2,1,Pozo de la Virgen de Candelaria,5,0
+100,,,,,,,,,,,,,,,,,,,,,Q43128416,1,3,7,0,6,1,1,Casa de la Aguada,1,0
+101,,,,,,,,,,,,,,,,,,,,,Q43129419,1,3,6,0,7,2,0,,0,0
+102,,,,,,,,,,,,,,,,,,,,,Q43129451,1,3,5,0,6,1,0,,0,0
+103,,,,,,,,,,,,,,,,,,,,,Q43129461,1,3,5,0,6,1,0,,0,0
+104,,,,,,,,,,,,,,,,,,,,,Q43129477,1,3,5,0,7,3,0,,0,0
+105,,,,,,,,,,,,,,,,,,,,,Q43129488,1,3,5,0,5,1,0,,0,0
+106,,,,,,,,,,,,,,,,,,,,,Q43129497,1,3,5,0,6,2,0,,0,0
+107,,,,,,,,,,,,,,,,,,,,,Q43129516,1,3,5,0,5,1,0,,0,0
+108,,,,,,,,,,,,,,,,,,,,,Q43129543,2,3,7,0,8,5,1,Escuela de Artes Aplicadas y Oficios Artísticos Santa Cruz de Tenerife,4,0
+109,,,,,,,,,,,,,,,,,,,,,Q43129568,2,3,7,0,6,1,1,Edificio del antiguo Colegio de la Asunción,11,0
+110,,,,,,,,,,,,,,,,,,,,,Q43130885,1,3,6,0,6,2,0,,0,0
+111,,,,,,,,,,,,,,,,,,,,,Q43130894,1,3,7,0,6,1,1,Ermita de San José de las Longueras,2,0
+112,,,,,,,,,,,,,,,,,,,,,Q43132256,2,3,7,0,6,2,1,Casa Lercaro,82,1
+113,Castillo de San Gabriel,4022,224,2018-11-29T16:44:16Z,112346853,https://es.wikipedia.org/w/index.php?oldid=112346853,2019-12-17T18:58:18Z,122098551,https://es.wikipedia.org/w/index.php?oldid=122098551,0,4,Beta15,,,,13,8,2,5,0,Q43140505,1,3,7,0,6,1,2,Castillo de San Gabriel,67,1
+114,Castillo de Fuste,5671,352,2018-12-10T16:56:35Z,112580936,https://es.wikipedia.org/w/index.php?oldid=112580936,2020-01-03T21:52:33Z,122478585,https://es.wikipedia.org/w/index.php?oldid=122478585,1,5,Beta15,,,,30,12,1,7,0,Q43140547,1,3,7,0,5,1,2,Castillo de Caleta de Fuste,12,0
+115,Castillo de San Marcial de Rubicón de Femés,5204,346,2018-12-12T19:32:48Z,112625984,https://es.wikipedia.org/w/index.php?oldid=112625984,2020-03-29T16:55:47Z,124663562,https://es.wikipedia.org/w/index.php?oldid=124663562,1,5,Beta15,,,,26,11,1,6,0,Q43140574,1,3,7,0,6,1,2,Castillo de las Coloradas,67,1
+116,,,,,,,,,,,,,,,,,,,,,Q43143513,1,3,5,0,6,1,0,,0,0
+117,,,,,,,,,,,,,,,,,,,,,Q43143573,1,3,5,0,6,2,0,,0,0
+118,,,,,,,,,,,,,,,,,,,,,Q43143593,1,3,7,0,5,2,1,Ermita de Nuestra Senora de Guadalupe (Antigua (Fuerteventura)),10,0
+119,,,,,,,,,,,,,,,,,,,,,Q43143605,2,3,5,0,5,1,0,,0,0
+120,,,,,,,,,,,,,,,,,,,,,Q43143617,1,3,5,0,6,1,0,,0,0
+121,,,,,,,,,,,,,,,,,,,,,Q43143640,1,3,5,0,6,1,0,,0,0
+122,,,,,,,,,,,,,,,,,,,,,Q43143658,1,3,7,0,6,2,1,Church of San Mauro Abad y Casa Parroquial,2,0
+123,,,,,,,,,,,,,,,,,,,,,Q43143662,1,3,5,0,6,1,0,,0,0
+124,,,,,,,,,,,,,,,,,,,,,Q43143676,1,3,7,0,6,1,1,Círculo de Amistad XII de Enero,11,0
+125,,,,,,,,,,,,,,,,,,,,,Q43143688,1,3,7,0,6,1,1,Iglesia de San Andrés,14,0
+126,,,,,,,,,,,,,,,,,,,,,Q43143696,1,3,5,0,6,1,0,,0,0
+127,,,,,,,,,,,,,,,,,,,,,Q43143717,1,3,5,0,6,1,0,,0,0
+128,,,,,,,,,,,,,,,,,,,,,Q43143757,1,3,5,0,6,2,0,,0,0
+129,,,,,,,,,,,,,,,,,,,,,Q43143761,2,3,7,0,6,3,1,"Ex-convento de San Sebastián, Los Silos",1,0
+130,,,,,,,,,,,,,,,,,,,,,Q43143764,1,3,7,0,6,1,1,Hermitage of San Nicolás de Tolentino and Casa Solariega,1,0
+131,,,,,,,,,,,,,,,,,,,,,Q43143772,1,3,7,0,6,1,1,"Ex-convento de San Francisco, Icod de los Vinos",3,0
+132,,,,,,,,,,,,,,,,,,,,,Q43143785,1,3,5,0,6,1,0,,0,0
+133,Parque Arqueológico de Belmaco,3796,87,2018-02-27T09:29:20Z,105860084,https://es.wikipedia.org/w/index.php?oldid=105860084,2019-06-28T08:37:49Z,117007399,https://es.wikipedia.org/w/index.php?oldid=117007399,1,13,Viajaste,,,,23,8,5,7,0,Q43143810,2,3,7,1,7,2,2,Parque Arqueológico Belmaco,37,0
+134,,,,,,,,,,,,,,,,,,,,,Q43143820,2,3,7,0,6,1,1,Casa Anchieta,4,0
+135,,,,,,,,,,,,,,,,,,,,,Q43143832,2,3,7,0,6,2,1,Casa Natal de José Antonio de Viera y Clavijo,2,0
+136,,,,,,,,,,,,,,,,,,,,,Q43143843,1,3,7,0,6,1,1,"Casa del Mayor Guerra, San Bartolomé",5,0
+137,,,,,,,,,,,,,,,,,,,,,Q43145524,2,4,7,0,6,1,1,"Iglesia y Hospital de Nuestra Señora de los Dolores, San Cristóbal de La Laguna",10,0
+138,,,,,,,,,,,,,,,,,,,,,Q43145531,2,3,6,0,6,2,0,,0,0
+139,,,,,,,,,,,,,,,,,,,,,Q43154558,1,3,5,0,6,2,0,,0,0
+140,,,,,,,,,,,,,,,,,,,,,Q43156591,1,3,7,0,6,1,1,Cabildo Viejo de Lanzarote,7,0
+141,,,,,,,,,,,,,,,,,,,,,Q43156716,1,3,7,0,6,1,1,"Buildings in the street Calvario, 52 y 54",1,0
+142,,,,,,,,,,,,,,,,,,,,,Q43156830,2,3,7,0,6,2,1,Casa Mascareño Santa Cruz de Tenerife,3,0
+143,,,,,,,,,,,,,,,,,,,,,Q43156984,1,3,7,0,5,1,1,Salinas del Carmen,126,3
+144,,,,,,,,,,,,,,,,,,,,,Q43157097,1,3,7,0,6,1,1,Salt mines of Tenefé,3,0
+145,,,,,,,,,,,,,,,,,,,,,Q43158321,1,3,7,0,6,1,1,Edificio La Financiera,0,0
+146,,,,,,,,,,,,,,,,,,,,,Q43158346,1,3,6,0,7,1,0,,0,0
+147,,,,,,,,,,,,,,,,,,,,,Q43158663,1,3,5,0,6,1,0,,0,0
+148,,,,,,,,,,,,,,,,,,,,,Q43158676,1,3,5,0,6,2,0,,0,0
+149,,,,,,,,,,,,,,,,,,,,,Q43158943,1,3,5,0,6,2,0,,0,0
+150,,,,,,,,,,,,,,,,,,,,,Q43158953,2,3,7,0,6,2,1,"Casa del Capitán, Santa Úrsula",6,0
+151,,,,,,,,,,,,,,,,,,,,,Q43160845,1,3,5,0,6,1,0,,0,0
+152,,,,,,,,,,,,,,,,,,,,,Q43165664,1,3,7,0,6,1,1,Cemetery of Vegueta,1,0
+153,,,,,,,,,,,,,,,,,,,,,Q43165676,3,3,8,0,6,2,1,"English cemetery, Las Palmas de Gran Canaria",2,0
+154,,,,,,,,,,,,,,,,,,,,,Q43168681,1,2,7,0,5,1,1,Old town of Santa Cruz de La Palma,75,1
+155,,,,,,,,,,,,,,,,,,,,,Q43168901,1,2,7,0,6,2,1,Conjunto Histórico Artístico la Villa de la Orotava,179,19
+156,,,,,,,,,,,,,,,,,,,,,Q43168914,1,2,7,0,6,1,1,Conjunto histórico artístico del casco antiguo de Arucas,0,5
+157,,,,,,,,,,,,,,,,,,,,,Q43169094,1,2,7,0,6,1,1,Conjunto histórico artístico de Teror,60,0
+158,,,,,,,,,,,,,,,,,,,,,Q43169120,1,2,7,0,6,1,1,Conjunto Histórico Artístico Castillo de San Gabriel Camino y Puente,99,2
+159,,,,,,,,,,,,,,,,,,,,,Q43169246,1,2,7,0,6,1,1,Conjunto histórico artístico de Tacoronte,3,0
+160,,,,,,,,,,,,,,,,,,,,,Q43169288,1,2,5,0,6,1,0,,0,0
+161,,,,,,,,,,,,,,,,,,,,,Q43169297,1,2,6,0,6,2,1,Plaza de Santiago de Gáldar,22,2
+162,,,,,,,,,,,,,,,,,,,,,Q43169528,1,2,7,0,6,1,1,Conjunto histórico artístico de Santa María de Guía,17,2
+163,,,,,,,,,,,,,,,,,,,,,Q43170209,1,2,5,0,6,2,0,,0,0
+164,,,,,,,,,,,,,,,,,,,,,Q43170369,1,2,8,0,7,1,1,Caserío de Icor,3,0
+165,,,,,,,,,,,,,,,,,,,,,Q43170376,1,2,7,0,6,1,0,Masca,406,6
+166,,,,,,,,,,,,,,,,,,,,,Q43170534,1,2,5,0,6,1,0,,0,0
+167,,,,,,,,,,,,,,,,,,,,,Q43170565,1,2,5,0,6,2,0,,0,0
+168,,,,,,,,,,,,,,,,,,,,,Q43170577,1,2,7,0,6,2,1,Villa y puerto de Garachico,14,0
+169,,,,,,,,,,,,,,,,,,,,,Q43170656,1,2,7,0,6,1,1,Conjunto histórico artístico de San Cristóbal de La Laguna,21,0
+170,,,,,,,,,,,,,,,,,,,,,Q43170722,1,2,7,0,6,2,1,Conjunto histórico de Icod de los Vinos,9,0
+171,,,,,,,,,,,,,,,,,,,,,Q43171397,1,2,5,0,6,1,0,,0,0
+172,,,,,,,,,,,,,,,,,,,,,Q43171481,1,2,7,0,6,2,1,Old town of Santa Brígida,3,0
+173,,,,,,,,,,,,,,,,,,,,,Q43171559,1,2,6,0,7,1,0,,0,0
+174,,,,,,,,,,,,,,,,,,,,,Q43171574,1,2,5,0,5,1,0,,0,0
+175,,,,,,,,,,,,,,,,,,,,,Q43171574,1,2,5,0,5,1,0,,0,0
+176,,,,,,,,,,,,,,,,,,,,,Q43171583,1,2,5,0,6,1,0,,0,0
+177,,,,,,,,,,,,,,,,,,,,,Q43172060,1,2,7,0,6,2,1,Conjunto histórico de Guía de Isora,8,0
+178,,,,,,,,,,,,,,,,,,,,,Q43172123,1,2,7,0,6,1,1,El Realejo Bajo,6,0
+179,,,,,,,,,,,,,,,,,,,,,Q43172186,1,2,7,0,6,1,1,Old town of Santa Cruz de Tenerife,80,7
+180,,,,,,,,,,,,,,,,,,,,,Q43172315,1,2,8,0,7,1,1,"Church of Nuestra Señora de La Luz, Arico el Nuevo",1,0
+181,,,,,,,,,,,,,,,,,,,,,Q43173042,1,3,5,0,6,1,0,,0,0
+182,,,,,,,,,,,,,,,,,,,,,Q43173184,2,3,8,0,7,2,1,Muelles carboneros,43,0
+183,,,,,,,,,,,,,,,,,,,,,Q43173288,1,3,5,0,6,2,0,,0,0
+184,,,,,,,,,,,,,,,,,,,,,Q43173831,1,3,5,0,6,1,0,,0,0
+185,,,,,,,,,,,,,,,,,,,,,Q43173847,1,3,5,0,6,1,0,,0,0
+186,,,,,,,,,,,,,,,,,,,,,Q43173903,1,3,5,0,6,1,0,,0,0
+187,,,,,,,,,,,,,,,,,,,,,Q43173945,1,3,5,0,6,1,0,,0,0
+188,,,,,,,,,,,,,,,,,,,,,Q43174079,1,3,5,0,6,1,0,,0,0
+189,,,,,,,,,,,,,,,,,,,,,Q43174098,1,3,4,0,5,2,0,,0,0
+190,,,,,,,,,,,,,,,,,,,,,Q43174112,1,3,7,0,6,1,1,Watermill in Firgas,1,0
+191,,,,,,,,,,,,,,,,,,,,,Q43174123,1,3,7,0,6,1,1,Molino Quemado,13,0
+192,,,,,,,,,,,,,,,,,,,,,Q43174159,2,3,7,0,6,2,1,Acueducto de los Molinos,13,0
+193,,,,,,,,,,,,,,,,,,,,,Q43174197,1,3,7,0,6,1,1,Camino de El Ciprés,4,0
+194,Camino viejo de Candelaria (Santa Cruz de Tenerife),10310,1263,2018-06-25T19:11:30Z,108925555,https://es.wikipedia.org/w/index.php?oldid=108925555,2019-06-28T07:07:15Z,117006075,https://es.wikipedia.org/w/index.php?oldid=117006075,5,10,Caminocandelaria,Discusión:Camino viejo de Candelaria (Santa Cruz de Tenerife),2012,261,33,14,0,5,0,Q43174312,1,3,5,0,12,2,1,,0,0
+195,Camino viejo de Candelaria (Santa Cruz de Tenerife),10310,1263,2018-06-25T19:11:30Z,108925555,https://es.wikipedia.org/w/index.php?oldid=108925555,2019-06-28T07:07:15Z,117006075,https://es.wikipedia.org/w/index.php?oldid=117006075,5,10,Caminocandelaria,Discusión:Camino viejo de Candelaria (Santa Cruz de Tenerife),2012,261,33,14,0,5,0,Q43174312,1,3,5,0,12,2,1,,0,0
+196,Camino viejo de Candelaria (Santa Cruz de Tenerife),10310,1263,2018-06-25T19:11:30Z,108925555,https://es.wikipedia.org/w/index.php?oldid=108925555,2019-06-28T07:07:15Z,117006075,https://es.wikipedia.org/w/index.php?oldid=117006075,5,10,Caminocandelaria,Discusión:Camino viejo de Candelaria (Santa Cruz de Tenerife),2012,261,33,14,0,5,0,Q43174312,1,3,5,0,12,2,1,,0,0
+197,,,,,,,,,,,,,,,,,,,,,Q43174319,1,3,6,0,5,2,0,"Alfombras del Corpus, La Orotava",38,0
+198,,,,,,,,,,,,,,,,,,,,,Q43174341,1,3,5,0,6,1,0,,0,0
+199,,,,,,,,,,,,,,,,,,,,,Q43174366,1,3,7,0,6,1,1,El Charco de la Aldea,1,0
+200,,,,,,,,,,,,,,,,,,,,,Q43174381,1,3,4,0,5,1,0,,0,0
+201,,,,,,,,,,,,,,,,,,,,,Q43174469,1,3,4,0,5,1,0,,0,0
+202,,,,,,,,,,,,,,,,,,,,,Q43174594,1,3,5,0,6,1,0,,0,0
+203,,,,,,,,,,,,,,,,,,,,,Q43174605,1,3,6,0,7,1,0,,0,0
+204,,,,,,,,,,,,,,,,,,,,,Q43175282,1,3,7,0,6,2,1,"Yacimientos de La Guancha, El Agujero y Bocabarranco",11,0
+205,,,,,,,,,,,,,,,,,,,,,Q43175453,1,3,7,0,6,1,1,Archaeological area of Zonzamas,11,2
+206,,,,,,,,,,,,,,,,,,,,,Q43175541,1,3,7,0,6,2,1,Yacimiento Arqueológico de Botija,9,0
+207,,,,,,,,,,,,,,,,,,,,,Q43176155,1,3,5,0,6,2,0,,0,0
+208,,,,,,,,,,,,,,,,,,,,,Q43176168,1,3,5,0,6,1,0,,0,0
+209,,,,,,,,,,,,,,,,,,,,,Q43176231,1,3,5,0,6,1,0,,0,0
+210,,,,,,,,,,,,,,,,,,,,,Q43176258,1,3,7,0,6,2,1,El Llanillo,15,0
+211,,,,,,,,,,,,,,,,,,,,,Q43176454,1,3,5,0,6,1,0,,0,0
+212,,,,,,,,,,,,,,,,,,,,,Q43176520,1,3,5,0,6,1,0,,0,0
+213,,,,,,,,,,,,,,,,,,,,,Q43176550,1,3,7,0,6,2,1,Tagoror del Gallego,1,0
+214,,,,,,,,,,,,,,,,,,,,,Q43176948,1,3,5,0,6,2,0,,0,0
+215,,,,,,,,,,,,,,,,,,,,,Q43177072,1,3,5,0,6,1,0,,0,0
+216,,,,,,,,,,,,,,,,,,,,,Q43177092,1,3,5,0,6,1,0,,0,0
+217,,,,,,,,,,,,,,,,,,,,,Q43177100,1,3,5,0,6,1,0,,0,0
+218,,,,,,,,,,,,,,,,,,,,,Q43177155,1,3,7,0,5,2,1,"Guinea, Frontera",2,0
+219,,,,,,,,,,,,,,,,,,,,,Q43177227,1,3,7,0,6,1,1,Archaeological area of Cueva de los Canarios,2,0
+220,,,,,,,,,,,,,,,,,,,,,Q43177266,1,3,5,0,5,1,1,Archaeological area of La Candía,1,0
+221,,,,,,,,,,,,,,,,,,,,,Q43177395,1,3,7,0,6,2,1,Barranco de Silva,2,0
+222,,,,,,,,,,,,,,,,,,,,,Q43177410,1,3,5,0,6,1,0,,0,0
+223,,,,,,,,,,,,,,,,,,,,,Q43177503,1,3,7,0,6,1,0,Archaeological area of Los Caserones,5,0
+224,,,,,,,,,,,,,,,,,,,,,Q43177519,1,3,7,0,6,1,1,Archaeological area of Los Caserones,5,0
+225,,,,,,,,,,,,,,,,,,,,,Q43178216,1,3,6,0,7,1,0,,0,0
+226,,,,,,,,,,,,,,,,,,,,,Q43178542,1,3,5,0,6,1,0,,0,0
+227,,,,,,,,,,,,,,,,,,,,,Q43178548,1,3,5,0,6,1,0,,0,0
+228,,,,,,,,,,,,,,,,,,,,,Q43178554,1,3,5,0,6,2,0,,0,0
+229,,,,,,,,,,,,,,,,,,,,,Q43178561,1,3,6,0,7,2,0,,0,0
+230,,,,,,,,,,,,,,,,,,,,,Q43178568,1,3,6,0,7,1,0,,0,0
+231,,,,,,,,,,,,,,,,,,,,,Q43178575,1,3,5,0,6,2,0,,0,0
+232,Cuevas de la Montañeta,8717,741,2019-12-03T19:02:07Z,121763739,https://es.wikipedia.org/w/index.php?oldid=121763739,2020-04-06T12:21:41Z,124934498,https://es.wikipedia.org/w/index.php?oldid=124934498,0,5,ElProConLag,,,,21,2,2,2,5,Q43178708,1,3,6,0,5,2,2,La Montañeta (Moya),2,0
+233,,,,,,,,,,,,,,,,,,,,,Q43178713,1,3,7,0,6,2,1,Archaeological area of Lomo Gordo,2,0
+234,,,,,,,,,,,,,,,,,,,,,Q43178722,1,3,5,0,6,1,0,,0,0
+235,,,,,,,,,,,,,,,,,,,,,Q43178728,1,3,8,0,7,1,1,Archaeological area of La Gallega,1,0
+236,,,,,,,,,,,,,,,,,,,,,Q43178749,1,3,6,0,7,2,0,,0,0
+237,,,,,,,,,,,,,,,,,,,,,Q43178759,1,3,5,0,6,2,0,,0,0
+238,,,,,,,,,,,,,,,,,,,,,Q43178788,2,3,7,0,6,2,1,Cuevas y Morros de Ávila,20,0
+239,,,,,,,,,,,,,,,,,,,,,Q43178806,1,3,5,0,5,1,0,,0,0
+240,,,,,,,,,,,,,,,,,,,,,Q43178806,1,3,5,0,5,1,0,,0,0
+241,,,,,,,,,,,,,,,,,,,,,Q43178818,1,3,5,0,6,1,0,,0,0
+242,,,,,,,,,,,,,,,,,,,,,Q43179063,1,3,5,0,5,1,0,,0,0
+243,,,,,,,,,,,,,,,,,,,,,Q43179076,1,3,5,0,6,1,0,,0,0
+244,,,,,,,,,,,,,,,,,,,,,Q43179084,1,3,7,0,6,2,1,Ladera de Martiánez,2,0
+245,,,,,,,,,,,,,,,,,,,,,Q43179093,1,3,5,0,5,1,0,,0,0
+246,,,,,,,,,,,,,,,,,,,,,Q43179102,1,3,7,0,5,1,1,La Isleta de La Santa,10,0
+247,,,,,,,,,,,,,,,,,,,,,Q43179102,1,3,7,0,5,1,1,La Isleta de La Santa,10,0
+248,,,,,,,,,,,,,,,,,,,,,Q43179134,1,3,7,0,6,1,1,Barranco del Cavadero,15,0
+249,,,,,,,,,,,,,,,,,,,,,Q43179160,1,3,7,0,6,1,1,Barranco de Agua de Dios,3,0
+250,,,,,,,,,,,,,,,,,,,,,Q43179165,1,3,5,0,5,1,0,,0,0
+251,,,,,,,,,,,,,,,,,,,,,Q43179191,1,3,5,0,6,1,0,,0,0
+252,,,,,,,,,,,,,,,,,,,,,Q43179202,1,3,7,0,5,1,1,Poblado de La Atalayita,31,0
+253,,,,,,,,,,,,,,,,,,,,,Q43179216,1,3,5,0,6,2,0,,0,0
+254,,,,,,,,,,,,,,,,,,,,,Q43179216,1,3,5,0,6,2,0,,0,0
+255,,,,,,,,,,,,,,,,,,,,,Q43179241,1,3,6,0,7,2,0,,0,0
+256,,,,,,,,,,,,,,,,,,,,,Q43179250,1,3,6,0,7,1,0,,0,0
+257,,,,,,,,,,,,,,,,,,,,,Q43179261,1,3,6,0,7,1,0,,0,0
+258,,,,,,,,,,,,,,,,,,,,,Q43179297,1,3,5,0,6,2,0,,0,0
+259,,,,,,,,,,,,,,,,,,,,,Q43179566,1,2,7,0,6,1,1,Archivo Histórico Provincial de Las Palmas,2,0
+260,,,,,,,,,,,,,,,,,,,,,Q43179613,1,2,7,0,5,1,1,Archivo Histórico Provincial de Santa Cruz de Tenerife,3,0
+261,,,,,,,,,,,,,,,,,,,,,Q43179741,1,17,15,0,17,1,1,"State Public Library, Las Palmas",5,0
+262,,,,,,,,,,,,,,,,,,,,,Q4397801,66,8,8,4,11,5,6,Conjunto histórico artístico de Teguise,201,11
+263,Teatro Guimerá,6846,839,2007-02-19T22:00:33Z,7099988,https://es.wikipedia.org/w/index.php?oldid=7099988,2019-06-28T07:45:13Z,117006699,https://es.wikipedia.org/w/index.php?oldid=117006699,14,29,Gran Coyote,Discusión:Teatro Guimerá,3487,551,37,44,3,1,0,Q4891034,4,4,10,1,8,10,4,Teatro Guimerá,23,0
+264,Cueva de Achbinico,17573,1341,2006-01-24T19:24:58Z,2138010,https://es.wikipedia.org/w/index.php?oldid=2138010,2019-06-28T06:40:06Z,117005784,https://es.wikipedia.org/w/index.php?oldid=117005784,53,38,79.158.66.86,Discusión:Cueva de Achbinico,763,135,48,23,3,17,0,Q5192633,4,4,9,6,6,0,3,,0,0
+265,Chinguaro,9926,668,2008-04-17T10:13:31Z,16670497,https://es.wikipedia.org/w/index.php?oldid=16670497,2019-07-03T21:01:57Z,117143848,https://es.wikipedia.org/w/index.php?oldid=117143848,25,23,Edub,,,,35,27,2,12,0,Q5192637,5,6,10,6,11,1,5,Cueva de Chinguaro,3,0
+266,Capilla de las Siervas de María (Santa Cruz de Tenerife),2222,205,2012-11-04T13:17:11Z,61090345,https://es.wikipedia.org/w/index.php?oldid=61090345,2020-01-18T07:36:27Z,122856912,https://es.wikipedia.org/w/index.php?oldid=122856912,6,7,Drusoneron,Discusión:Capilla de las Siervas de María (Santa Cruz de Tenerife),417,57,20,2,1,0,0,Q5399068,2,4,8,2,2,0,2,Capilla de las Siervas de María Santa Cruz de Tenerife,2,0
+267,Triana (Las Palmas de Gran Canaria),11560,1524,2007-11-06T17:54:15Z,12620377,https://es.wikipedia.org/w/index.php?oldid=12620377,2019-06-28T07:17:15Z,117006205,https://es.wikipedia.org/w/index.php?oldid=117006205,6,22,Opcion,Discusión:Triana (Las Palmas de Gran Canaria),2205,347,44,42,7,3,1,Q5409313,4,6,9,2,7,2,2,Triana,220,20
+268,Iglesia de San Roque (Tinajo),5930,753,2007-07-27T07:18:53Z,10288251,https://es.wikipedia.org/w/index.php?oldid=10288251,2020-02-19T21:07:22Z,123678597,https://es.wikipedia.org/w/index.php?oldid=123678597,6,20,81.32.234.98,,,,40,11,0,3,0,Q5493020,2,5,6,2,7,1,1,,0,0
+269,Iglesia de Nuestra Señora de la Candelaria (La Oliva),2723,325,2007-09-17T21:24:51Z,11405829,https://es.wikipedia.org/w/index.php?oldid=11405829,2019-10-29T10:11:45Z,120850733,https://es.wikipedia.org/w/index.php?oldid=120850733,5,13,88.28.60.227,Discusión:Iglesia de Nuestra Señora de la Candelaria (La Oliva),1704,193,22,13,1,0,0,Q5495085,1,7,10,2,8,2,2,Iglesia de Nuestra Señora de la Candelaria (La Oliva),36,2
+270,Hornos de Cal de la Guirra,4377,527,2007-08-01T09:07:09Z,10382922,https://es.wikipedia.org/w/index.php?oldid=10382922,2020-01-25T12:24:26Z,123052404,https://es.wikipedia.org/w/index.php?oldid=123052404,0,14,Gafotas,,,,22,7,1,1,0,Q5553936,1,2,7,2,2,2,2,Hornos de cal de la Guirra,11,0
+271,Basílica de Nuestra Señora del Pino,23151,3059,2008-09-24T17:38:26Z,20404753,https://es.wikipedia.org/w/index.php?oldid=20404753,2019-08-25T18:38:20Z,118515679,https://es.wikipedia.org/w/index.php?oldid=118515679,48,42,Ubayrbd,Discusión:Basílica de Nuestra Señora del Pino,14821,2163,88,69,8,8,0,Q5574972,2,5,11,5,12,4,2,Basílica de Nuestra Señora del Pino,55,2
+272,Torreón de San Pedro Mártir,5506,393,2007-10-26T18:27:24Z,12358003,https://es.wikipedia.org/w/index.php?oldid=12358003,2019-06-28T07:25:57Z,117006346,https://es.wikipedia.org/w/index.php?oldid=117006346,4,21,Beta15,Discusión:Torreón de San Pedro Mártir,1311,96,48,40,2,3,0,Q5646903,2,6,7,1,6,1,3,Castillo de San Cristóbal (Las Palmas de Gran Canaria),9,0
+273,,,,,,,,,,,,,,,,,,,,,Q56677165,1,2,7,0,0,1,1,Archaeological area of Tufia,4,0
+274,,,,,,,,,,,,,,,,,,,,,Q56677184,1,2,4,0,0,2,0,,0,0
+275,,,,,,,,,,,,,,,,,,,,,Q56677648,1,5,4,0,0,0,0,,0,0
+276,,,,,,,,,,,,,,,,,,,,,Q56677668,1,1,4,0,0,1,0,,0,0
+277,Arona (capital municipal),10919,678,2010-07-04T22:25:52Z,38547925,https://es.wikipedia.org/w/index.php?oldid=38547925,2019-09-24T12:35:01Z,119670125,https://es.wikipedia.org/w/index.php?oldid=119670125,1,12,Elimedina,,,,45,32,4,7,0,Q5705046,3,2,7,3,8,3,3,Conjunto histórico de Arona,1,0
+278,Ayuntamiento de Santa Cruz de Tenerife,5529,500,2010-04-14T21:15:42Z,36126223,https://es.wikipedia.org/w/index.php?oldid=36126223,2020-01-11T16:26:01Z,122672032,https://es.wikipedia.org/w/index.php?oldid=122672032,5,12,Elimedina,,,,79,65,3,0,0,Q5714931,4,3,13,8,18,9,1,Ayuntamiento de Santa Cruz de Tenerife,12,1
+279,Biblioteca Pública del Estado en Santa Cruz de Tenerife,3571,350,2011-01-24T23:40:27Z,43520806,https://es.wikipedia.org/w/index.php?oldid=43520806,2020-04-20T11:04:47Z,125345448,https://es.wikipedia.org/w/index.php?oldid=125345448,1,12,Elimedina,,,,39,13,3,1,0,Q5727908,1,16,15,0,17,1,2,"State Public Library, Santa Cruz de Tenerife",3,0
+280,Capilla Anglicana (Las Palmas de Gran Canaria),4222,405,2007-07-28T01:20:53Z,10304091,https://es.wikipedia.org/w/index.php?oldid=10304091,2019-11-05T19:44:25Z,121092389,https://es.wikipedia.org/w/index.php?oldid=121092389,2,20,Manuel Ramírez Sánchez,,,,20,7,1,4,0,Q5748232,2,4,9,1,6,2,2,"Anglican chapel, Las Palmas de Gran Canaria",1,0
+281,Capilla de San Pedro de Abajo (Güímar),1939,214,2007-07-28T01:23:00Z,10304119,https://es.wikipedia.org/w/index.php?oldid=10304119,2019-06-28T08:33:09Z,117007334,https://es.wikipedia.org/w/index.php?oldid=117007334,3,9,Javiersanp,,,,25,13,1,0,0,Q5748356,2,4,6,2,7,1,1,,0,0
+282,Capilla de la Venerable Orden Tercera (Santa Cruz de Tenerife),4571,472,2012-11-04T15:35:48Z,61094897,https://es.wikipedia.org/w/index.php?oldid=61094897,2019-11-09T08:11:06Z,121183424,https://es.wikipedia.org/w/index.php?oldid=121183424,6,11,81.35.204.203,Discusión:Capilla de la Venerable Orden Tercera (Santa Cruz de Tenerife),698,24,48,6,2,1,0,Q5748392,3,6,10,4,4,1,2,Capilla de la Orden Tercera y Convento Franciscano Santa Cruz de Tenerife,3,0
+283,Casa Campino,4986,718,2007-07-28T01:36:02Z,10304256,https://es.wikipedia.org/w/index.php?oldid=10304256,2019-06-28T07:50:23Z,117006786,https://es.wikipedia.org/w/index.php?oldid=117006786,2,9,Gafotas,,,,20,6,2,0,0,Q5754109,2,5,7,1,6,2,2,"Casa Campino, Icod de los Vinos",3,0
+284,Casa Falcón y Quintana,5033,272,2007-08-03T07:02:02Z,10422227,https://es.wikipedia.org/w/index.php?oldid=10422227,2019-06-28T07:13:45Z,117006157,https://es.wikipedia.org/w/index.php?oldid=117006157,1,14,Beta15,,,,22,8,1,2,0,Q5754207,1,5,9,2,2,1,2,Casa Falcón y Quintana,4,0
+285,Casa Verde de Aguilar,3269,443,2007-08-03T07:22:33Z,10422408,https://es.wikipedia.org/w/index.php?oldid=10422408,2019-06-28T07:21:45Z,117006270,https://es.wikipedia.org/w/index.php?oldid=117006270,2,10,Triedros,,,,17,9,1,2,0,Q5754559,1,5,7,1,6,2,2,Casa Verde de Aguilar,3,0
+286,Casa de La Portuguesa,3569,485,2007-07-28T01:47:07Z,10304367,https://es.wikipedia.org/w/index.php?oldid=10304367,2019-06-28T07:50:33Z,117006789,https://es.wikipedia.org/w/index.php?oldid=117006789,2,12,Gafotas,,,,21,7,0,0,0,Q5754892,1,5,7,0,6,2,2,Casa de la Portuguesa,2,0
+287,Casa de la Cámara Episcopal (Agüimes),4895,666,2007-09-17T21:21:15Z,11405727,https://es.wikipedia.org/w/index.php?oldid=11405727,2019-06-28T08:35:59Z,117007381,https://es.wikipedia.org/w/index.php?oldid=117007381,2,11,CEM-bot,,,,18,15,1,1,0,Q5755139,1,5,7,2,7,1,2,House of the episcopal chamber,1,0
+288,Casa de los Coroneles,11928,1391,2012-05-31T15:46:28Z,56636268,https://es.wikipedia.org/w/index.php?oldid=56636268,2020-04-08T21:01:20Z,125011127,https://es.wikipedia.org/w/index.php?oldid=125011127,2,20,Pepelopex,Discusión:Casa de los Coroneles,15,0,58,4,1,2,0,Q5755355,2,5,7,3,9,4,3,Casa de los Coroneles,91,3
+289,Casa Natal del Canónigo Gordillo,2262,330,2007-08-01T07:59:29Z,10382359,https://es.wikipedia.org/w/index.php?oldid=10382359,2020-01-06T22:16:37Z,122554582,https://es.wikipedia.org/w/index.php?oldid=122554582,3,13,Beta15,,,,18,11,0,0,0,Q5755409,1,5,5,0,6,2,1,,0,0
+290,Casa del Inglés (La Oliva),4719,562,2007-07-28T01:51:54Z,10304423,https://es.wikipedia.org/w/index.php?oldid=10304423,2019-06-28T07:20:35Z,117006251,https://es.wikipedia.org/w/index.php?oldid=117006251,2,9,Gafotas,,,,27,11,0,1,0,Q5755506,1,5,5,1,7,1,1,,0,0
+291,Casino de Tenerife,2639,329,2007-07-28T01:59:20Z,10304537,https://es.wikipedia.org/w/index.php?oldid=10304537,2020-01-21T13:30:07Z,122943366,https://es.wikipedia.org/w/index.php?oldid=122943366,3,15,46.26.203.69,,,,16,24,1,0,0,Q5756303,3,5,7,2,8,3,2,Casino de Tenerife,7,0
+292,Castillo de Mata,7557,622,2007-10-18T16:41:16Z,12154955,https://es.wikipedia.org/w/index.php?oldid=12154955,2019-08-26T19:34:12Z,118556594,https://es.wikipedia.org/w/index.php?oldid=118556594,2,20,Ivanhercaz,,,,41,43,2,4,0,Q5757430,4,5,10,2,7,2,3,Castillo de Mata,7,0
+293,Castillo de Paso Alto (Santa Cruz de Tenerife),8730,901,2008-12-08T15:57:55Z,22330729,https://es.wikipedia.org/w/index.php?oldid=22330729,2020-01-10T18:17:42Z,122648748,https://es.wikipedia.org/w/index.php?oldid=122648748,7,22,88.10.66.9,,,,52,19,8,3,0,Q5757508,2,4,8,3,9,4,2,Castillo de Paso Alto (Santa Cruz de Tenerife),7,0
+294,Castillo de San Felipe (Puerto de la Cruz),6490,540,2010-03-25T11:21:30Z,35492597,https://es.wikipedia.org/w/index.php?oldid=35492597,2019-06-28T08:00:24Z,117006948,https://es.wikipedia.org/w/index.php?oldid=117006948,3,18,Gran Coyote,Discusión:Castillo de San Felipe (Puerto de la Cruz),1127,99,43,15,8,1,2,Q5757552,12,7,7,4,9,2,9,"Castillo de San Felipe, Puerto de la Cruz",49,0
+295,Castillo de San Joaquín,3610,184,2007-08-01T08:54:41Z,10382769,https://es.wikipedia.org/w/index.php?oldid=10382769,2019-06-28T07:54:14Z,117006842,https://es.wikipedia.org/w/index.php?oldid=117006842,1,18,Gafotas,,,,31,17,6,2,0,Q5757559,3,4,9,2,9,2,4,Castillo de San Joaquín,7,0
+296,Cementerio de La Orotava,2251,272,2007-07-25T12:35:26Z,10254200,https://es.wikipedia.org/w/index.php?oldid=10254200,2019-06-28T08:21:54Z,117007202,https://es.wikipedia.org/w/index.php?oldid=117007202,2,12,Edub,,,,19,9,1,0,0,Q5760332,3,3,8,2,2,1,2,Cementerio de La Orotava,5,0
+297,Cementerio de San Bartolomé de Tirajana,6687,984,2007-09-17T21:19:48Z,11405687,https://es.wikipedia.org/w/index.php?oldid=11405687,2020-04-12T12:55:15Z,125120065,https://es.wikipedia.org/w/index.php?oldid=125120065,2,17,Pedro Felipe,Discusión:Cementerio de San Bartolomé de Tirajana,58,7,35,14,0,0,0,Q5760341,1,3,6,0,7,1,1,,0,0
+298,Cementerio de San Rafael y San Roque,12263,1245,2007-07-25T12:30:18Z,10254159,https://es.wikipedia.org/w/index.php?oldid=10254159,2020-02-14T16:49:00Z,123542442,https://es.wikipedia.org/w/index.php?oldid=123542442,3,18,Chantecler,,,,32,16,2,9,2,Q5760372,2,5,7,2,7,2,2,Cemetery of San Rafael y San Roque,3,0
+299,Cenobio de Valerón,18903,1482,2009-07-20T22:21:01Z,28234611,https://es.wikipedia.org/w/index.php?oldid=28234611,2019-12-01T11:13:49Z,121707347,https://es.wikipedia.org/w/index.php?oldid=121707347,5,24,Idadiana,Discusión:Cenobio de Valerón,1088,94,46,17,5,9,10,Q5760449,3,3,7,2,7,2,4,Cenobio de Valerón,25,0
+300,Iglesia de San Antonio Abad (Fuencaliente de La Palma),2485,256,2007-09-17T21:14:20Z,11405564,https://es.wikipedia.org/w/index.php?oldid=11405564,2019-06-28T08:02:04Z,117006970,https://es.wikipedia.org/w/index.php?oldid=117006970,2,12,Jarould,,,,22,8,1,1,0,Q5800691,3,5,8,2,2,2,3,"Church of San Antonio Abad, Fuencaliente",3,0
+301,Ermita de Nuestra Señora de Regla (Pájara),5154,639,2007-07-27T11:10:44Z,10290878,https://es.wikipedia.org/w/index.php?oldid=10290878,2019-06-28T07:29:17Z,117006396,https://es.wikipedia.org/w/index.php?oldid=117006396,5,17,87.217.210.125,,,,30,16,1,1,0,Q5817402,2,5,8,2,7,1,3,Iglesia de Nuestra Señora de Regla (Pájara),0,1
+302,El Guerrero de Goslar,2427,293,2010-07-08T17:34:01Z,38655832,https://es.wikipedia.org/w/index.php?oldid=38655832,2019-06-28T07:46:43Z,117006723,https://es.wikipedia.org/w/index.php?oldid=117006723,4,12,Elimedina,,,,29,4,1,3,0,Q5822058,3,4,17,0,14,1,2,"Goslar Warrior - Henry Moore (LH 641, Santa Cruz de Tenerife)",4,0
+303,El Toscal (Santa Cruz de Tenerife),16340,1542,2010-03-19T22:34:41Z,35286475,https://es.wikipedia.org/w/index.php?oldid=35286475,2019-06-28T08:33:49Z,117007344,https://es.wikipedia.org/w/index.php?oldid=117007344,21,16,Elimedina,,,,73,41,5,11,0,Q5823584,3,0,6,1,1,1,2,,0,0
+304,Ermita de El Buen Jesús (Tijarafe),2023,191,2007-07-30T12:36:16Z,10346044,https://es.wikipedia.org/w/index.php?oldid=10346044,2019-06-28T08:21:44Z,117007201,https://es.wikipedia.org/w/index.php?oldid=117007201,2,12,157.233.21.65,,,,24,11,0,0,0,Q5835906,1,3,9,3,8,2,1,,0,0
+305,Ermita de Nuestra Señora de Gracia (San Cristóbal de La Laguna),6345,860,2007-07-27T11:30:54Z,10291110,https://es.wikipedia.org/w/index.php?oldid=10291110,2020-02-18T20:10:22Z,123643758,https://es.wikipedia.org/w/index.php?oldid=123643758,4,14,87.218.93.178,,,,45,20,0,1,0,Q5835936,1,3,9,3,8,2,2,Hermitage of Nuestra Señora de Gracia,3,0
+306,Ermita de Nuestra Señora de la Caridad (Tindaya),2015,208,2007-09-17T21:06:48Z,11405386,https://es.wikipedia.org/w/index.php?oldid=11405386,2019-06-28T08:30:39Z,117007304,https://es.wikipedia.org/w/index.php?oldid=117007304,1,8,Beta15,,,,24,11,1,0,0,Q5835964,2,3,9,2,8,1,2,Hermitage of Nuestra Señora de la Caridad,10,0
+307,Ermita de Nuestra Señora de las Nieves (Agaete),4063,429,2009-12-13T21:03:46Z,32191766,https://es.wikipedia.org/w/index.php?oldid=32191766,2019-06-28T07:30:57Z,117006426,https://es.wikipedia.org/w/index.php?oldid=117006426,3,12,DVP19,,,,23,7,1,2,0,Q5835985,2,5,10,4,9,1,2,"Hermitage of Nuestra Señora de las Nieves, Agaete",13,0
+308,Ermita de San Agustín (Tefía),2863,342,2007-07-27T11:21:37Z,10290991,https://es.wikipedia.org/w/index.php?oldid=10290991,2019-06-28T07:29:27Z,117006399,https://es.wikipedia.org/w/index.php?oldid=117006399,3,9,Gafotas,,,,26,9,0,0,0,Q5836033,1,1,7,2,8,2,1,,0,0
+309,Ermita de San Antonio Abad (Las Palmas de Gran Canaria),4065,416,2007-07-27T11:18:25Z,10290954,https://es.wikipedia.org/w/index.php?oldid=10290954,2019-06-28T07:23:47Z,117006306,https://es.wikipedia.org/w/index.php?oldid=117006306,4,21,Beta15,,,,22,16,1,3,0,Q5836047,1,3,9,2,7,1,2,Ermita de San Antonio Abad,11,0
+310,Ermita de San Cristóbal (San Cristóbal de La Laguna),2273,194,2012-01-17T13:15:05Z,53072891,https://es.wikipedia.org/w/index.php?oldid=53072891,2020-02-28T18:05:23Z,123891695,https://es.wikipedia.org/w/index.php?oldid=123891695,10,9,81.36.8.112,,,,23,8,1,2,0,Q5836080,2,4,11,5,5,0,2,"Ermita de San Cristóbal, San Cristóbal de La Laguna",2,0
+311,Ermita de San Diego del Monte (San Cristóbal de La Laguna),2893,332,2012-06-13T20:22:33Z,56986699,https://es.wikipedia.org/w/index.php?oldid=56986699,2020-03-07T13:02:33Z,124079714,https://es.wikipedia.org/w/index.php?oldid=124079714,13,8,87.218.80.210,,,,37,8,1,0,0,Q5836082,2,7,15,3,3,0,2,Ermita de San Diego del Monte,2,0
+312,Ermita de San Miguel Arcángel (San Cristóbal de La Laguna),4611,573,2007-08-01T09:05:00Z,10382897,https://es.wikipedia.org/w/index.php?oldid=10382897,2019-06-28T07:55:14Z,117006857,https://es.wikipedia.org/w/index.php?oldid=117006857,6,13,Urdangaray,,,,28,15,2,0,0,Q5836162,3,3,9,3,8,1,3,"Ermita de San Miguel, San Cristóbal de La Laguna",2,0
+313,Ermita de San Rafael (Teguise),3823,456,2007-07-31T07:20:19Z,10362053,https://es.wikipedia.org/w/index.php?oldid=10362053,2019-06-28T07:32:22Z,117006452,https://es.wikipedia.org/w/index.php?oldid=117006452,3,16,Gafotas,,,,38,7,0,0,0,Q5836194,1,5,7,3,8,1,1,,0,0
+314,Ermita de San Telmo (Santa Cruz de Tenerife),4817,427,2010-07-19T14:44:12Z,38899653,https://es.wikipedia.org/w/index.php?oldid=38899653,2019-10-20T13:43:25Z,120562327,https://es.wikipedia.org/w/index.php?oldid=120562327,7,12,87.223.26.243,Discusión:Ermita de San Telmo (Santa Cruz de Tenerife),1088,99,34,13,11,2,0,Q5836248,1,3,7,2,7,2,2,Capilla de San Telmo Santa Cruz de Tenerife,10,0
+315,Ermita de Santa Catalina Mártir de Alejandría (Taganana),3579,317,2012-09-05T11:58:50Z,59410581,https://es.wikipedia.org/w/index.php?oldid=59410581,2019-06-28T08:05:44Z,117007009,https://es.wikipedia.org/w/index.php?oldid=117007009,4,11,88.12.64.5,,,,33,12,2,1,0,Q5836296,2,6,13,7,13,1,3,Church of Santa Catalina de Alejandría,0,0
+316,Ermita del Calvario (Icod de los Vinos),3195,365,2007-07-27T11:16:02Z,10290927,https://es.wikipedia.org/w/index.php?oldid=10290927,2019-06-28T08:21:34Z,117007199,https://es.wikipedia.org/w/index.php?oldid=117007199,3,12,Edub,,,,25,7,1,0,0,Q5836593,2,3,8,3,8,1,2,"Ermita del Calvario, Icod de los Vinos",1,0
+317,Fachada del edificio Segarra,8815,1328,2007-07-25T12:20:33Z,10254086,https://es.wikipedia.org/w/index.php?oldid=10254086,2019-06-28T07:20:55Z,117006255,https://es.wikipedia.org/w/index.php?oldid=117006255,2,16,Beta15,,,,43,9,0,0,0,Q5854376,1,3,7,0,0,1,2,Edificio Segarra,5,0
+318,Fortaleza de Chipude,4135,340,2011-02-01T23:14:02Z,43740735,https://es.wikipedia.org/w/index.php?oldid=43740735,2020-04-14T21:32:40Z,125190323,https://es.wikipedia.org/w/index.php?oldid=125190323,2,9,Elimedina,Discusión:Fortaleza de Chipude,1122,94,32,13,2,2,0,Q5864162,3,5,8,3,9,4,4,Monumento Natural de La Fortaleza,19,1
+319,Gabinete Literario,5596,564,2009-12-01T02:45:54Z,31882725,https://es.wikipedia.org/w/index.php?oldid=31882725,2019-10-24T16:34:24Z,120723337,https://es.wikipedia.org/w/index.php?oldid=120723337,4,22,31.205.252.107,Discusión:Gabinete Literario,2142,186,37,25,2,3,2,Q5873064,1,4,9,1,6,3,2,"Gabinete Literario, Las Palmas de Gran Canaria",9,0
+320,Hacienda de Hoya de Pineda,2133,265,2007-08-03T07:19:04Z,10422385,https://es.wikipedia.org/w/index.php?oldid=10422385,2019-06-28T07:21:05Z,117006256,https://es.wikipedia.org/w/index.php?oldid=117006256,1,14,Ivanhercaz,,,,19,10,1,1,0,Q5891149,1,5,8,3,8,1,2,Hacienda Hoya Pineda,2,0
+321,Hacienda de Los Príncipes,4334,613,2007-08-02T14:45:33Z,10406837,https://es.wikipedia.org/w/index.php?oldid=10406837,2019-06-28T07:51:53Z,117006813,https://es.wikipedia.org/w/index.php?oldid=117006813,5,16,Carmin,Discusión:Hacienda de Los Príncipes,1478,106,29,13,0,0,0,Q5891151,1,5,7,2,7,2,2,Hacienda de Los Príncipes,5,0
+322,Hijuela del Botánico,3886,373,2006-11-23T13:33:00Z,5715107,https://es.wikipedia.org/w/index.php?oldid=5715107,2019-11-04T14:44:27Z,121059884,https://es.wikipedia.org/w/index.php?oldid=121059884,2,13,79.150.104.93,,,,28,9,1,1,0,Q5897722,2,2,7,1,6,1,3,"Hijuela del Botanico, La Orotava",15,0
+323,Iglesia Matriz de Nuestra Señora del Rosario (Puerto del Rosario),3741,367,2012-12-22T18:54:11Z,62404072,https://es.wikipedia.org/w/index.php?oldid=62404072,2019-11-13T03:43:15Z,121278476,https://es.wikipedia.org/w/index.php?oldid=121278476,13,10,79.155.74.165,Discusión:Iglesia Matriz de Nuestra Señora del Rosario (Puerto del Rosario),203,10,41,6,2,2,0,Q5909048,1,5,11,4,10,2,2,Iglesia de Nuestra Señora del Rosario (Puerto del Rosario),21,2
+324,Iglesia Matriz de Santa María de Guía,21869,3279,2009-09-26T21:03:32Z,30081369,https://es.wikipedia.org/w/index.php?oldid=30081369,2020-04-18T11:19:57Z,125289848,https://es.wikipedia.org/w/index.php?oldid=125289848,12,26,DVP19,,,,49,24,5,1,0,Q5909060,1,5,9,3,9,1,2,Mother church of Santa María de Guía,10,0
+325,Iglesia Matriz de Santiago de Los Caballeros,25395,3681,2009-08-10T13:37:56Z,28765079,https://es.wikipedia.org/w/index.php?oldid=28765079,2020-01-21T17:18:05Z,122948989,https://es.wikipedia.org/w/index.php?oldid=122948989,18,34,DVP19,Discusión:Iglesia Matriz de Santiago de Los Caballeros,1184,98,66,34,6,6,0,Q5909064,1,5,10,5,10,2,2,"Church of Santiago de los Caballeros, Galdar",20,1
+326,Iglesia Matriz de la Asunción (San Sebastián de La Gomera),3100,292,2012-12-22T19:19:38Z,62404559,https://es.wikipedia.org/w/index.php?oldid=62404559,2019-06-28T08:01:24Z,117006961,https://es.wikipedia.org/w/index.php?oldid=117006961,7,12,79.158.243.79,,,,35,13,2,2,0,Q5909067,2,5,8,4,5,2,2,,0,0
+327,Iglesia de Nuestra Señora (Antigua),2490,185,2007-07-31T07:25:03Z,10362083,https://es.wikipedia.org/w/index.php?oldid=10362083,2020-01-04T14:53:18Z,122495055,https://es.wikipedia.org/w/index.php?oldid=122495055,11,14,DVP19,,,,24,21,0,1,0,Q5909315,2,4,11,2,7,1,2,Iglesia de Nuestra Señora (Antigua (Fuerteventura)),33,1
+328,Iglesia de Nuestra Señora de la Candelaria (Tijarafe),3607,512,2007-09-17T21:15:43Z,11405590,https://es.wikipedia.org/w/index.php?oldid=11405590,2019-06-28T06:44:06Z,117005825,https://es.wikipedia.org/w/index.php?oldid=117005825,5,12,El Sacamantecas,,,,21,13,1,0,0,Q5909546,2,5,7,1,6,2,2,"Church of Nuestra Señora de la Candelaria, Tijarafe",10,0
+329,Iglesia de Nuestra Señora de la Concepción (Los Realejos),3137,379,2007-07-27T10:57:23Z,10290659,https://es.wikipedia.org/w/index.php?oldid=10290659,2020-04-05T19:54:35Z,124908694,https://es.wikipedia.org/w/index.php?oldid=124908694,4,16,Tinerfe123,,,,33,26,1,0,0,Q5909548,1,5,8,2,7,1,2,"Iglesia de Nuestra Señora de la Concepción, Los Realejos",12,0
+330,Iglesia de Nuestra Señora de la Concepción (Valverde),6558,852,2007-07-27T11:04:09Z,10290796,https://es.wikipedia.org/w/index.php?oldid=10290796,2019-12-04T19:30:11Z,121790121,https://es.wikipedia.org/w/index.php?oldid=121790121,11,22,CARLOS TEIXIDOR CADENAS,,,,39,22,3,0,0,Q5909551,2,6,10,4,10,1,2,"Church of Nuestra Señora de la Concepción, Valverde",2,0
+331,Iglesia de Nuestra Señora del Rosario (Barlovento),6409,929,2007-07-30T12:40:58Z,10346091,https://es.wikipedia.org/w/index.php?oldid=10346091,2020-02-19T21:41:06Z,123684386,https://es.wikipedia.org/w/index.php?oldid=123684386,4,19,88.28.60.227,,,,25,12,1,0,0,Q5909729,1,5,8,2,8,1,2,"Iglesia de Nuestra Señora del Rosario, Barlovento",1,0
+332,Iglesia de San Antonio de Padua (Granadilla de Abona),9448,1124,2007-07-27T09:21:22Z,10289513,https://es.wikipedia.org/w/index.php?oldid=10289513,2019-06-28T08:10:24Z,117007060,https://es.wikipedia.org/w/index.php?oldid=117007060,5,15,Martely,,,,38,7,3,3,0,Q5909934,4,5,10,4,9,2,3,"Church of San Antonio de Padua, Granadilla de Abona",1,0
+333,Iglesia de San Bartolomé (San Bartolomé),4971,636,2007-07-31T07:22:35Z,10362069,https://es.wikipedia.org/w/index.php?oldid=10362069,2019-06-28T07:33:22Z,117006472,https://es.wikipedia.org/w/index.php?oldid=117006472,14,18,DVP19,Discusión:Iglesia de San Bartolomé (San Bartolomé),692,95,29,30,0,0,0,Q5909980,1,5,10,3,9,1,2,"Iglesia de San Bartolomé, Lanzarote",8,0
+334,Iglesia de San Bartolomé (Tejina),4161,359,2007-07-27T10:50:07Z,10290536,https://es.wikipedia.org/w/index.php?oldid=10290536,2019-06-28T07:55:24Z,117006860,https://es.wikipedia.org/w/index.php?oldid=117006860,4,13,Gafotas,,,,24,18,0,3,0,Q5909992,1,5,9,4,10,1,1,,0,0
+335,Iglesia de San Benito Abad (San Cristóbal de La Laguna),4123,560,2007-07-25T11:58:10Z,10253919,https://es.wikipedia.org/w/index.php?oldid=10253919,2019-06-28T07:55:34Z,117006863,https://es.wikipedia.org/w/index.php?oldid=117006863,8,11,DVP19,Discusión:Iglesia de San Benito Abad (San Cristóbal de La Laguna),24,0,27,15,1,0,0,Q5910005,1,5,9,3,8,1,2,Church of San Benito Abad,1,0
+336,Iglesia de San José (Breña Baja),4932,702,2007-09-17T21:18:24Z,11405651,https://es.wikipedia.org/w/index.php?oldid=11405651,2020-02-06T00:11:23Z,123336368,https://es.wikipedia.org/w/index.php?oldid=123336368,4,16,Urdangaray,,,,26,14,1,0,0,Q5910336,2,8,11,6,11,1,3,Church of San José (Breña Baja),18,0
+337,Iglesia de San José (San Juan de la Rambla),4113,467,2007-07-27T09:15:39Z,10289463,https://es.wikipedia.org/w/index.php?oldid=10289463,2020-02-06T00:11:09Z,123336358,https://es.wikipedia.org/w/index.php?oldid=123336358,6,15,Beneharo Hdez.,,,,25,12,0,0,0,Q5910365,1,8,8,5,10,1,1,,0,0
+338,Iglesia de San Juan Bautista (Puntallana),3025,350,2007-08-03T07:20:32Z,10422394,https://es.wikipedia.org/w/index.php?oldid=10422394,2019-06-28T08:02:44Z,117006977,https://es.wikipedia.org/w/index.php?oldid=117006977,2,8,88.28.60.227,,,,25,8,0,0,0,Q5910492,1,8,13,4,9,1,2,Iglesia de San Juan Bautista (Puntallana),21,1
+339,Iglesia de San Juan Bautista (Villa de Arico),6123,674,2013-02-24T20:06:10Z,64100941,https://es.wikipedia.org/w/index.php?oldid=64100941,2019-06-28T08:08:24Z,117007041,https://es.wikipedia.org/w/index.php?oldid=117007041,7,12,Martely,Discusión:Iglesia de San Juan Bautista (Villa de Arico),259,10,40,6,7,4,0,Q5910514,2,7,11,7,12,1,3,"Church of San Juan Bautista, Arico",14,0
+340,Iglesia de San Lázaro (San Cristóbal de La Laguna),2516,275,2007-07-27T08:33:04Z,10289015,https://es.wikipedia.org/w/index.php?oldid=10289015,2019-06-28T07:55:54Z,117006868,https://es.wikipedia.org/w/index.php?oldid=117006868,9,10,Gafotas,,,,31,16,1,0,0,Q5910699,2,5,9,3,8,1,2,"Church of San Lázaro, San Cristóbal de La Laguna",8,0
+341,Iglesia de San Marcos (Icod de los Vinos),5834,816,2007-07-27T08:28:51Z,10288973,https://es.wikipedia.org/w/index.php?oldid=10288973,2019-06-28T08:08:54Z,117007045,https://es.wikipedia.org/w/index.php?oldid=117007045,13,12,Gafotas,,,,39,16,2,0,0,Q5910712,6,7,10,5,10,1,3,"Iglesia de San Marcos, Icod de los Vinos",35,0
+342,Iglesia de San Miguel Arcángel (Tuineje),4505,605,2007-07-27T07:21:47Z,10288281,https://es.wikipedia.org/w/index.php?oldid=10288281,2019-06-28T07:29:57Z,117006408,https://es.wikipedia.org/w/index.php?oldid=117006408,2,9,Beta15,,,,25,11,2,0,0,Q5910930,2,5,11,5,11,1,2,Iglesia de San Miguel Arcángel (Tuineje),19,2
+343,Iglesia de San Nicolás de Bari (Las Manchas),9587,1454,2007-09-17T21:17:12Z,11405620,https://es.wikipedia.org/w/index.php?oldid=11405620,2019-07-30T14:35:57Z,117856184,https://es.wikipedia.org/w/index.php?oldid=117856184,2,14,Vinicius10,,,,24,18,1,0,0,Q5911002,1,5,8,3,8,1,1,,0,0
+344,Iglesia de San Pedro Apóstol (El Sauzal),3997,515,2007-07-27T07:02:19Z,10288102,https://es.wikipedia.org/w/index.php?oldid=10288102,2019-06-28T08:09:54Z,117007056,https://es.wikipedia.org/w/index.php?oldid=117007056,9,8,Elimedina,,,,31,13,2,0,0,Q5911170,2,6,11,3,8,1,2,"San Pedro Apóstol Church, El Sauzal",51,2
+345,Iglesia de Santa Úrsula (Santa Úrsula),3833,443,2007-07-27T07:13:19Z,10288211,https://es.wikipedia.org/w/index.php?oldid=10288211,2019-06-28T08:10:44Z,117007063,https://es.wikipedia.org/w/index.php?oldid=117007063,7,14,Cserranomar~eswiki,,,,35,14,4,0,0,Q5912035,1,5,10,4,9,1,2,Church of Saint Ursula in Santa Úrsula,11,0
+346,Iglesia de Santo Domingo de Guzmán (San Cristóbal de La Laguna),5930,620,2012-01-19T11:16:02Z,53121132,https://es.wikipedia.org/w/index.php?oldid=53121132,2020-03-07T13:16:49Z,124079875,https://es.wikipedia.org/w/index.php?oldid=124079875,22,14,88.12.64.73,Discusión:Iglesia de Santo Domingo de Guzmán (San Cristóbal de La Laguna),1184,154,62,27,3,2,0,Q5912213,5,5,11,5,10,1,5,"Iglesia de Santo Domingo de Guzmán, San Cristóbal de La Laguna",24,0
+347,Torreón de Gando,5328,471,2018-11-24T12:20:00Z,112234604,https://es.wikipedia.org/w/index.php?oldid=112234604,2020-01-10T15:46:38Z,122644833,https://es.wikipedia.org/w/index.php?oldid=122644833,1,5,87.223.13.61,,,,30,13,0,4,0,Q59155748,1,2,5,0,0,0,1,,0,0
+348,Conjunto arqueológico de Acusa,8369,1221,2018-11-24T12:53:32Z,112234985,https://es.wikipedia.org/w/index.php?oldid=112234985,2019-06-28T06:48:16Z,117005875,https://es.wikipedia.org/w/index.php?oldid=117005875,0,4,Beta15,Discusión:Conjunto arqueológico de Acusa,273,28,20,3,2,1,0,Q59213382,1,1,8,1,2,1,2,Acusa,5,0
+349,,,,,,,,,,,,,,,,,,,,,Q59243833,2,4,9,0,0,1,1,Calle Perojo,11,0
+350,La Casa Amarilla,59867,8079,2007-08-03T07:04:07Z,10422250,https://es.wikipedia.org/w/index.php?oldid=10422250,2020-04-26T12:45:45Z,125524061,https://es.wikipedia.org/w/index.php?oldid=125524061,10,37,Kurt.Köhler,Discusión:La Casa Amarilla,4190,441,93,21,22,59,5,Q5962729,2,3,7,3,9,4,3,"Casa Amarilla, Puerto de la Cruz",3,0
+351,Lago Martiánez,3737,540,2006-10-22T00:23:17Z,5232995,https://es.wikipedia.org/w/index.php?oldid=5232995,2019-10-15T10:55:42Z,120328901,https://es.wikipedia.org/w/index.php?oldid=120328901,9,22,Wesisnay,,,,27,19,2,0,0,Q5968885,7,7,8,3,8,3,7,Lago Martiánez,51,0
+352,Iglesia Matriz de la Concepción (Santa Cruz de Tenerife),13609,1391,2008-05-11T11:41:15Z,17289474,https://es.wikipedia.org/w/index.php?oldid=17289474,2020-04-23T15:51:36Z,125437495,https://es.wikipedia.org/w/index.php?oldid=125437495,84,45,88.10.62.187,Discusión:Iglesia Matriz de la Concepción (Santa Cruz de Tenerife),3746,454,102,79,14,5,0,Q599116,19,10,16,10,20,6,19,"Church of Nuestra Señora de la Concepción, Santa Cruz de Tenerife",169,3
+353,Mirador de La Peña,2751,358,2007-08-01T08:01:01Z,10382375,https://es.wikipedia.org/w/index.php?oldid=10382375,2020-02-20T08:26:48Z,123697671,https://es.wikipedia.org/w/index.php?oldid=123697671,1,13,Gafotas,,,,22,10,1,0,0,Q6017982,2,3,11,3,9,1,2,"Viewpoint of La Peña, Valverde",3,0
+354,Molino de Barranco Grande,1817,155,2012-11-02T23:57:09Z,61046903,https://es.wikipedia.org/w/index.php?oldid=61046903,2019-06-28T08:34:39Z,117007363,https://es.wikipedia.org/w/index.php?oldid=117007363,0,7,Aosbot,,,,15,4,5,1,0,Q6020927,3,3,8,4,13,2,4,Windmill of Barranco Grande,5,0
+355,Molino de Cazorla (San Bartolomé de Tirajana),2149,281,2007-09-17T21:09:07Z,11405428,https://es.wikipedia.org/w/index.php?oldid=11405428,2019-07-05T23:05:53Z,117194834,https://es.wikipedia.org/w/index.php?oldid=117194834,0,13,Alavisan,Discusión:Molino de Cazorla (San Bartolomé de Tirajana),1106,98,16,10,0,0,0,Q6020934,2,0,8,1,2,1,3,Molino de Cazorla,5,0
+356,Molino de Cuevas Blancas,2417,274,2012-11-02T23:06:48Z,61045833,https://es.wikipedia.org/w/index.php?oldid=61045833,2019-06-28T08:31:49Z,117007320,https://es.wikipedia.org/w/index.php?oldid=117007320,1,10,SimónK,,,,15,5,4,0,0,Q6020938,3,3,10,3,14,2,4,Windmill of Cuevas Blancas,4,0
+357,Molino de Gofio del Risco de las Pencas,4007,448,2012-04-19T06:32:37Z,55501578,https://es.wikipedia.org/w/index.php?oldid=55501578,2019-12-17T00:02:09Z,122081948,https://es.wikipedia.org/w/index.php?oldid=122081948,0,9,Javiersanp,,,,17,3,1,4,0,Q6020947,1,2,7,1,6,2,2,Watermill of Risco de las Pencas,2,0
+358,Molino de Llano del Moro,2092,230,2012-11-03T00:24:36Z,61047440,https://es.wikipedia.org/w/index.php?oldid=61047440,2019-06-28T08:31:59Z,117007322,https://es.wikipedia.org/w/index.php?oldid=117007322,1,8,SimónK,,,,17,5,5,0,0,Q6020959,1,3,7,3,8,2,2,Windmill of Llano del Moro,5,0
+359,Muralla de Las Palmas,5007,612,2007-07-30T12:29:18Z,10345959,https://es.wikipedia.org/w/index.php?oldid=10345959,2019-06-28T07:20:15Z,117006244,https://es.wikipedia.org/w/index.php?oldid=117006244,1,17,Alavisan,,,,27,25,3,0,0,Q6032843,1,3,7,2,7,2,2,Muralla de Las Palmas,2,0
+360,Necrópolis de Arteara,6283,386,2007-02-26T10:56:15Z,7228401,https://es.wikipedia.org/w/index.php?oldid=7228401,2019-08-22T20:46:33Z,118440003,https://es.wikipedia.org/w/index.php?oldid=118440003,9,28,Soront,,,,33,10,4,3,0,Q6039283,2,3,7,1,6,2,3,Necrópolis de Arteara,18,0
+361,Palacio de Carta,3252,323,2010-07-19T12:11:20Z,38896699,https://es.wikipedia.org/w/index.php?oldid=38896699,2019-11-14T20:51:29Z,121320595,https://es.wikipedia.org/w/index.php?oldid=121320595,1,13,Elimedina,Discusión:Palacio de Carta,1096,94,26,8,2,4,0,Q6057887,3,4,7,3,8,2,2,Palacio de Carta,9,0
+362,Palacio de Nava,2932,335,2007-03-31T09:38:55Z,7872851,https://es.wikipedia.org/w/index.php?oldid=7872851,2019-06-28T07:56:24Z,117006880,https://es.wikipedia.org/w/index.php?oldid=117006880,1,17,Gran Coyote,Discusión:Palacio de Nava,175,10,21,11,1,0,0,Q6058132,3,4,7,2,8,3,3,"Palacio de Nava, San Cristóbal de La Laguna",7,0
+363,Parroquia Matriz del Apóstol Santiago,25034,3364,2007-12-28T12:51:08Z,13896047,https://es.wikipedia.org/w/index.php?oldid=13896047,2020-04-05T19:56:25Z,124908743,https://es.wikipedia.org/w/index.php?oldid=124908743,51,35,Tinerfe123,Discusión:Parroquia Matriz del Apóstol Santiago,8696,1408,86,51,4,0,0,Q6063491,2,6,11,4,9,1,2,"Santiago Church, Los Realejos",10,0
+364,Parroquia de María Auxiliadora (Duggi),2103,226,2011-08-22T19:10:06Z,49149427,https://es.wikipedia.org/w/index.php?oldid=49149427,2019-06-28T08:09:34Z,117007054,https://es.wikipedia.org/w/index.php?oldid=117007054,10,11,95.22.176.77,,,,22,5,1,0,0,Q6063667,2,5,9,2,8,1,2,Parroquia de María Auxiliadora,1,0
+365,Plaza Weyler,3393,419,2008-01-19T21:19:52Z,14468709,https://es.wikipedia.org/w/index.php?oldid=14468709,2019-11-16T23:09:18Z,121367857,https://es.wikipedia.org/w/index.php?oldid=121367857,5,19,Carmin,Discusión:Plaza Weyler,969,93,24,20,2,1,0,Q6079856,2,3,7,1,6,1,2,Plaza Weyler,36,2
+366,Plaza de toros de Santa Cruz de Tenerife,3745,484,2008-06-13T11:30:46Z,18118621,https://es.wikipedia.org/w/index.php?oldid=18118621,2019-06-28T07:40:32Z,117006615,https://es.wikipedia.org/w/index.php?oldid=117006615,7,17,79.152.178.36,Discusión:Plaza de toros de Santa Cruz de Tenerife,1638,208,32,10,2,1,0,Q6080352,2,0,11,1,7,2,3,Plaza de toros Santa Cruz de Tenerife,4,0
+367,Pueblo Canario (complejo arquitectónico),3449,322,2007-05-17T16:24:19Z,8855032,https://es.wikipedia.org/w/index.php?oldid=8855032,2019-06-28T07:16:25Z,117006193,https://es.wikipedia.org/w/index.php?oldid=117006193,7,9,83.52.238.127,Discusión:Pueblo Canario (complejo arquitectónico),729,100,22,7,5,1,2,Q6090895,1,0,9,2,2,0,2,Pueblo Canario,12,2
+368,Quinta Verde,5211,803,2007-07-27T06:55:50Z,10288030,https://es.wikipedia.org/w/index.php?oldid=10288030,2019-06-28T07:52:44Z,117006826,https://es.wikipedia.org/w/index.php?oldid=117006826,2,6,Gafotas,,,,21,6,0,0,0,Q6095054,1,0,6,2,2,1,1,,0,0
+369,Teatro Circo de Marte,2406,213,2007-07-30T12:27:08Z,10345926,https://es.wikipedia.org/w/index.php?oldid=10345926,2019-07-27T11:48:15Z,117741085,https://es.wikipedia.org/w/index.php?oldid=117741085,1,9,Beta15,Discusión:Teatro Circo de Marte,1029,95,15,12,1,0,0,Q6139658,2,4,8,1,5,3,2,Theater Circo de Marte,11,0
+370,Iglesia de Nuestra Señora de Bonanza,3445,283,2011-04-09T15:03:54Z,45489175,https://es.wikipedia.org/w/index.php?oldid=45489175,2019-06-28T08:01:54Z,117006968,https://es.wikipedia.org/w/index.php?oldid=117006968,4,20,Vinicius10,Discusión:Iglesia de Nuestra Señora de Bonanza,25,0,23,8,5,2,0,Q6150387,1,4,8,2,8,1,2,"Iglesia de Nuestra Señora de Bonanza, El Paso",21,0
+371,Villa de Arico,6854,467,2013-02-23T18:26:16Z,64068733,https://es.wikipedia.org/w/index.php?oldid=64068733,2020-04-04T22:35:49Z,124873217,https://es.wikipedia.org/w/index.php?oldid=124873217,2,15,Martely,,,,47,23,4,5,1,Q6162455,3,3,10,1,7,3,3,Villa de Arico,18,1
+372,Cuatro Puertas,7256,685,2016-04-22T15:35:03Z,90629008,https://es.wikipedia.org/w/index.php?oldid=90629008,2019-10-15T18:08:03Z,120349635,https://es.wikipedia.org/w/index.php?oldid=120349635,4,16,Ivanhercaz,Discusión:Cuatro Puertas,1480,93,29,13,7,2,0,Q6169507,4,4,7,2,7,1,3,Archaeological area of Cuatro Puertas,0,0
+373,,,,,,,,,,,,,,,,,,,,,Q62363730,1,8,13,0,9,0,1,Biblioteca Insular de Gran Canaria,4,0
+374,Casa de Carta,1939,258,2007-07-28T01:42:24Z,10304326,https://es.wikipedia.org/w/index.php?oldid=10304326,2019-06-28T07:53:44Z,117006837,https://es.wikipedia.org/w/index.php?oldid=117006837,1,12,Xícara,,,,17,13,0,0,0,Q6405964,2,5,5,2,7,1,1,,0,0
+375,Iglesia del Amparo (Icod de los Vinos),4107,607,2007-07-25T07:25:14Z,10251712,https://es.wikipedia.org/w/index.php?oldid=10251712,2019-06-28T08:03:04Z,117006980,https://es.wikipedia.org/w/index.php?oldid=117006980,4,12,88.28.60.227,,,,20,7,1,0,0,Q6447266,2,6,8,2,2,1,2,Iglesia del Amparo,7,0
+376,Iglesia Matriz de San Ginés Obispo (Arrecife),4166,432,2012-12-22T16:42:39Z,62401400,https://es.wikipedia.org/w/index.php?oldid=62401400,2019-12-18T17:29:20Z,122120558,https://es.wikipedia.org/w/index.php?oldid=122120558,11,10,87.223.93.197,,,,46,6,2,5,0,Q7414234,2,5,10,5,11,3,3,"Church of San Ginés, Arrecife",43,2
+377,Castillo de San Francisco (Las Palmas de Gran Canaria),14494,1728,2007-10-22T21:42:51Z,12259533,https://es.wikipedia.org/w/index.php?oldid=12259533,2020-04-25T05:51:31Z,125488536,https://es.wikipedia.org/w/index.php?oldid=125488536,7,28,Josefa Santana Estévez,,,,28,28,11,2,0,Q8342548,6,4,10,3,10,3,6,Castle of San Francisco (Las Palmas de Gran Canaria),11,0
+378,Cueva de Bencomo,6656,435,2013-03-17T23:28:22Z,65386876,https://es.wikipedia.org/w/index.php?oldid=65386876,2020-03-31T17:02:12Z,124733430,https://es.wikipedia.org/w/index.php?oldid=124733430,6,12,88.10.57.233,,,,29,8,2,5,3,Q8352462,2,3,7,3,8,2,2,Cueva de Bencomo,3,0
+379,Iglesia Matriz de Nuestra Señora de Guadalupe (Teguise),3674,371,2013-03-14T19:19:43Z,65199307,https://es.wikipedia.org/w/index.php?oldid=65199307,2019-06-28T07:33:02Z,117006466,https://es.wikipedia.org/w/index.php?oldid=117006466,12,7,46.222.8.34,,,,37,12,3,4,0,Q9006831,2,5,9,3,9,2,2,Church of Nuestra Señora de Guadalupe,67,2
+380,Teatro Chico (Santa Cruz de La Palma),12353,1820,2007-07-30T12:31:28Z,10345986,https://es.wikipedia.org/w/index.php?oldid=10345986,2019-06-28T08:22:24Z,117007208,https://es.wikipedia.org/w/index.php?oldid=117007208,4,16,Color sépia,,,,42,13,1,0,0,Q9082133,3,4,8,1,5,3,3,Theater Chico,1,0
+381,Torre del Conde (Canarias),3618,284,2008-02-22T13:12:30Z,15309475,https://es.wikipedia.org/w/index.php?oldid=15309475,2020-04-23T13:52:52Z,125433431,https://es.wikipedia.org/w/index.php?oldid=125433431,10,27,Navbel,Discusión:Torre del Conde (Canarias),293,37,29,24,1,4,0,Q9089023,3,4,7,1,6,1,4,Torre del Conde,18,0
+382,Basílica de Nuestra Señora de la Candelaria,41413,5089,2006-01-24T18:58:59Z,2137803,https://es.wikipedia.org/w/index.php?oldid=2137803,2019-12-26T15:59:49Z,122295436,https://es.wikipedia.org/w/index.php?oldid=122295436,211,90,Ubayrbd,Discusión:Basílica de Nuestra Señora de la Candelaria,20019,2736,227,110,11,21,0,Q34485,31,5,18,15,21,2,32,Basílica de Nuestra Señora de la Candelaria,190,4
+383,Catedral de San Cristóbal de La Laguna,49748,5873,2006-09-26T14:07:12Z,4869973,https://es.wikipedia.org/w/index.php?oldid=4869973,2020-03-15T03:56:33Z,124266281,https://es.wikipedia.org/w/index.php?oldid=124266281,154,86,81.35.204.189,Discusión:Catedral de San Cristóbal de La Laguna,6319,670,322,155,36,30,3,Q34562,37,9,20,16,28,8,37,La Laguna Cathedral,223,7
+384,Real Santuario del Santísimo Cristo de La Laguna,15867,2016,2009-03-08T00:13:05Z,24641644,https://es.wikipedia.org/w/index.php?oldid=24641644,2020-03-07T13:03:33Z,124079722,https://es.wikipedia.org/w/index.php?oldid=124079722,65,40,79.154.161.166,Discusión:Real Santuario del Santísimo Cristo de La Laguna,1921,155,108,42,5,8,0,Q63368,19,5,13,8,9,1,19,Real Santuario del Santísimo Cristo,72,2
