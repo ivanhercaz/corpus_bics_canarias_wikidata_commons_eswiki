@@ -1,5 +1,11 @@
 # Corpus de datos de los Bienes de Interés Cultural de Canarias en los proyectos Wikimedia
 
+**Aviso**. Este proyecto ya tiene su tiempo y revisándolo me doy cuenta de muchas cosas que se podrían refactorizar. Es normal, ahora tengo conocimientos que antes no, ¡y más ideas! Pero también tengo intereses diferentes.
+Por ello no creo que tenga más cambios que el commit de este aviso. Por supuesto, si alguiente tiene algún interés en este repositorio o quiere desarrollar algo a partir de él, puede comunicarse conmigo. Relacionado con
+[ivanhercaz/wikicorpus](/ivanhercaz/wikicorpus).
+
+----
+
 Este repositorio contiene un conjunto de datos que se ha denominado *Corpus de datos de los Bienes de Interés Cultural de Canarias en los proyectos Wikimedia*. Concretamente contiene datos de los bienes de interés cultural de Canarias extraídos con la herramienta WikiCorpus de Wikipedia en español, Wikidata y Wikimedia Commons.
 
 Su objetivo principal ha sido el análisis de los datos curados para la investigación del trabajo de fin de máster *Estado del conocimiento libre sobre el patrimonio cultural de Canarias en Wikipedia, Wikimedia Commons y Wikidata. Los Bienes de Interés Cultural de Canarias en los Proyectos Wikimedia*.
